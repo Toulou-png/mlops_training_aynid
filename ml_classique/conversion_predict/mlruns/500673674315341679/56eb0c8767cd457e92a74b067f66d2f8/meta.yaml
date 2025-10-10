@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/michel.bertrand.mama/Documents/AYNID/aynid_mlops_training/ml_classique/conversion_prediction/mlruns/500673674315341679/56eb0c8767cd457e92a74b067f66d2f8/artifacts
+end_time: 1760004229778
+entry_point_name: ''
+experiment_id: '500673674315341679'
+lifecycle_stage: active
+run_id: 56eb0c8767cd457e92a74b067f66d2f8
+run_name: logistic_regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760004217185
+status: 3
+tags: []
+user_id: michel.bertrand.mama

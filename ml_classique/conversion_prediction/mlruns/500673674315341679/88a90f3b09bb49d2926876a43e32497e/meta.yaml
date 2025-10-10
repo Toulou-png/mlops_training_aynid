@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/michel.bertrand.mama/Documents/AYNID/aynid_mlops_training/ml_classique/conversion_prediction/mlruns/500673674315341679/88a90f3b09bb49d2926876a43e32497e/artifacts
+end_time: 1760004217170
+entry_point_name: ''
+experiment_id: '500673674315341679'
+lifecycle_stage: active
+run_id: 88a90f3b09bb49d2926876a43e32497e
+run_name: gradient_boosting
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760004162916
+status: 3
+tags: []
+user_id: michel.bertrand.mama

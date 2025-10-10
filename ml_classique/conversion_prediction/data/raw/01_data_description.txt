@@ -1,0 +1,239 @@
+Description Complète des Données Générées pour des cas d'usage MLOps
+
+Structure Globale des Données
+
+Le système génère 9 datasets interconnectés représentant l'écosystème complet simulé d'Aynid, avec ~6,500 enregistrements au total pour la version sample.
+
+---
+
+👥 1. TABLE users (users.csv : 1,000 utilisateurs)
+
+Description
+
+Profils détaillés des utilisateurs inscrits sur la plateforme.
+
+Colonnes
+
+· user_id (str): Identifiant unique "ex: user_00001"
+· age (int): Âge entre 18-70 ans (distribution normale)
+· gender (str): Genre 'M' (48%) ou 'F' (52%)
+· location (str): Ville française aléatoire (Paris, Lyon, Marseille...)
+· registration_date (date): Date d'inscription (sur 2 ans)
+· total_orders (int): Nombre total de commandes (loi de Poisson λ=5)
+· avg_order_value (float): Valeur moyenne des commandes (∼85€ ±30€)
+· preferred_category (str): Catégorie préférée (electronics, fashion, home, sports, beauty)
+
+
+---
+
+📦 2. TABLE products (products.csv : 500 produits)
+
+Description
+
+Catalogue complet des produits disponibles.
+
+Colonnes
+
+· product_id (str): "ex: prod_00125"
+· name (str): Nom produit généré (ex: "Synergistic Steel Chair")
+· category (str): Catégorie principale (7 catégories)
+· subcategory (str): Sous-catégorie spécifique (28 sous-catégories)
+· price (float): Prix en € (5-200€, distribution log-normale)
+· brand (str): Marque aléatoire ("Martin SARL")
+· rating (float): Note moyenne 1-5 étoiles (∼4.2 ±0.5)
+· review_count (int): Nombre d'avis (∼45)
+· stock_quantity (int): Stock disponible (0-1000)
+· is_featured (bool): Produit mis en avant (10%)
+· creation_date (date): Date d'ajout (sur 1 an)
+
+Arborescence Catégories
+
+```
+📱 electronics → smartphone, laptop, headphones, tablet
+👕 fashion → clothing, shoes, accessories, watches  
+🏠 home → furniture, kitchen, decor, appliances
+⚽ sports → fitness, outdoor, team_sports, yoga
+💄 beauty → skincare, makeup, haircare, fragrance
+📚 books → fiction, business, science, cookbooks
+🎮 toys → educational, action_figures, board_games, dolls
+```
+
+
+---
+
+🌐 3. TABLE sessions (sessions.csv : 5,000 sessions)
+
+Description
+
+Sessions de navigation des utilisateurs sur la plateforme.
+
+Colonnes
+
+· session_id (str): "session_000145"
+· user_id (str): Utilisateur associé
+· session_start (datetime): Début de session (3 derniers mois)
+· session_duration (float): Durée en secondes (∼300s)
+· device_type (str): Mobile (60%), Desktop (35%), Tablet (5%)
+· location (str): Localisation session
+· will_purchase (int): Cible prédiction achat (0/1)
+
+---
+
+🔍 4. TABLE searches (searches.csv : ∼3,500 recherches)
+
+Description
+
+Historique des recherches effectuées par les utilisateurs.
+
+Colonnes
+
+· search_id (str): "search_000145"
+· session_id (str): Session associée
+· query (str): Terme de recherche (11 termes prédéfinis)
+· results_count (int): Nombre résultats (5-100)
+· search_timestamp (datetime): Moment de la recherche
+
+Termes de Recherche Prédéfinis
+
+```
+"smartphone pas cher", "livre roman", "chaussures sport"
+"meuble salon", "cosmétique bio", "jeux enfants"  
+"ordinateur portable", "vêtement été", "équipement fitness"
+"décoration maison", "cadeau anniversaire"
+```
+
+
+---
+
+🖱️ 5. TABLE clicks (clicks.csv : ∼15,000 clics)
+
+Description
+
+Interactions détaillées des utilisateurs avec les produits.
+
+Colonnes
+
+· click_id (str): "click_000145_01"
+· session_id (str): Session associée
+· product_id (str): Produit cliqué
+· click_timestamp (datetime): Moment du clic
+· time_spent (float): Temps passé sur page (∼45s)
+· page_views (int): Nombre de pages vues (1-5)
+
+
+---
+
+💰 6. TABLE transactions (transactions.csv : 500 transactions)
+
+Description
+
+Historique complet des transactions sur la plateforme.
+
+Colonnes
+
+· transaction_id (str): "trans_000125"
+· user_id (str): Utilisateur acheteur
+· product_id (str): Produit acheté
+· session_id (str): Session d'achat
+· purchase_date (datetime): Date d'achat
+· quantity (int): Quantité (1-3)
+· unit_price (float): Prix unitaire
+· total_amount (float): Montant total
+· status (str): completed (85%), cancelled (10%), refunded (5%)
+· payment_method (str): credit_card, paypal, bank_transfer
+
+
+---
+
+⭐ 7. TABLE reviews (reviews.csv : ∼150 avis)
+
+Description
+
+Avis et notations laissés par les utilisateurs.
+
+Colonnes
+
+· review_id (str): "review_000125"
+· user_id (str): Auteur de l'avis
+· product_id (str): Produit évalué
+· rating (int): Note 1-5 étoiles
+· review_text (str): Texte de l'avis (2 phrases)
+· review_date (date): Date de l'avis
+· helpful_votes (int): Votes utiles (∼2)
+
+
+---
+
+🔮 8. TABLE clustering_features (clustering_features.cvs : 1,000 enregistrements)
+
+Description
+
+Features synthétiques pour le clustering et ML.
+
+Colonnes
+
+· user_id (str): Utilisateur associé
+· feature_1 to feature_5 (float): Features numériques synthétiques
+· cluster_label (int): Label de cluster (0-3)
+
+Caractéristiques
+
+```
+4 clusters naturels générés 
+5 dimensions features
+Distribution gaussienne par cluster
+```
+
+---
+
+🛒 9. TABLE carts (carts.csv : ∼2,500 paniers)
+
+Description
+
+Données des paniers d'achat et abandon de panier.
+
+Colonnes
+
+· session_id (str): Session associée
+· user_id (str): Utilisateur
+· cart_items_count (int): Nombre d'articles (1-4)
+· cart_value (float): Valeur du panier (∼75€ ±25€)
+· cart_created (datetime): Création du panier
+· cart_abandoned (bool): Panier abandonné (60% True)
+
+
+---
+
+🔗 Relations et Clés Étrangères
+
+```
+users (user_id)
+    ↑
+sessions (user_id) → searches (session_id)
+    ↑                    ↑
+transactions (session_id) clicks (session_id)
+    ↑                    ↑
+reviews (user_id, product_id) ← products (product_id)
+    ↑
+clustering_features (user_id)
+```
+
+---
+
+🎯 Variables Cibles pour ML
+
+Pour la PRÉDICTION:
+
+· sessions.will_purchase (classification binaire)
+· carts.cart_abandoned (classification binaire)
+· transactions.total_amount (régression)
+
+Pour la CLASSIFICATION:
+
+· users.preferred_category (multi-classes)
+· products.category (multi-classes)
+· reviews.rating (classification sentiment)
+
+Pour le CLUSTERING:
+
+· clustering_features.feature_1-5 (4 clusters naturels)

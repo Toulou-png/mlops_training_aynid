@@ -1,0 +1,501 @@
+product_id,name,category,subcategory,price,brand,rating,review_count,stock_quantity,is_featured,creation_date
+prod_00000,Le droit d'évoluer en toute tranquilité,electronics,tablet,33.82,Lévy SA,3.9,45,922,False,2025-07-08
+prod_00001,Le confort d'innover plus facilement,books,cookbooks,54.42,Legros Picard S.A.S.,4.2,42,529,False,2024-10-11
+prod_00002,L'assurance d'avancer plus facilement,electronics,laptop,22.45,Martin Boulay S.A.,4.1,45,306,False,2024-12-29
+prod_00003,Le droit de concrétiser vos projets naturellement,sports,fitness,115.67,Dupuis,4.6,44,772,False,2024-10-26
+prod_00004,Le pouvoir d'avancer à la pointe,beauty,makeup,92.31,Dumas,3.2,46,867,False,2025-04-25
+prod_00005,La liberté d'innover avant-tout,home,decor,180.26,Hamon Lacroix S.A.S.,4.1,50,214,False,2024-12-06
+prod_00006,Le droit de rouler de manière efficace,electronics,headphones,165.25,Renard,3.9,43,734,False,2025-08-17
+prod_00007,La possibilité de changer de manière efficace,toys,action_figures,158.04,Lucas SARL,3.6,53,641,False,2025-08-04
+prod_00008,Le confort de rouler à sa source,sports,team_sports,30.53,Cordier,3.8,38,200,True,2025-07-23
+prod_00009,La possibilité de concrétiser vos projets autrement,electronics,tablet,149.6,Lefort,4.6,42,479,False,2024-11-30
+prod_00010,L'avantage d'avancer à sa source,sports,team_sports,84.74,Traore,3.9,42,631,False,2024-12-31
+prod_00011,L'art d'avancer avant-tout,toys,action_figures,62.31,Schmitt,4.2,43,208,False,2025-08-02
+prod_00012,Le confort de changer naturellement,electronics,laptop,33.21,Garnier,4.2,34,372,False,2025-05-07
+prod_00013,La possibilité d'évoluer à la pointe,electronics,smartphone,58.59,Guérin Benard S.A.,4.1,47,264,False,2024-10-13
+prod_00014,Le confort de concrétiser vos projets sans soucis,books,cookbooks,64.59,Marchal,4.5,43,845,False,2024-12-19
+prod_00015,L'art d'évoluer autrement,sports,outdoor,91.23,Riou,5.0,51,233,False,2025-08-04
+prod_00016,La possibilité de louer plus rapidement,fashion,accessories,105.53,Courtois,3.6,25,639,False,2025-01-02
+prod_00017,Le plaisir de changer de manière efficace,toys,board_games,25.41,Tanguy,5.0,42,607,False,2025-07-11
+prod_00018,La possibilité d'atteindre vos buts sans soucis,beauty,makeup,64.02,Loiseau,4.2,46,960,False,2025-07-04
+prod_00019,L'avantage de changer plus facilement,toys,board_games,97.83,Potier,5.0,56,268,False,2025-05-08
+prod_00020,L'avantage de concrétiser vos projets sans soucis,toys,educational,104.86,Antoine,4.5,41,75,False,2025-08-11
+prod_00021,L'avantage de changer à l'état pur,beauty,skincare,64.86,Dumont,3.8,55,651,False,2025-01-10
+prod_00022,L'avantage d'innover plus facilement,toys,board_games,28.25,Denis S.A.,4.2,46,965,False,2025-02-25
+prod_00023,Le confort de louer autrement,electronics,smartphone,254.35,Huet,4.5,48,742,False,2025-08-17
+prod_00024,La liberté de rouler à l'état pur,home,appliances,92.63,Boulanger,3.7,47,460,False,2025-04-03
+prod_00025,Le confort d'évoluer autrement,sports,outdoor,97.54,Marin,4.6,46,101,False,2025-08-31
+prod_00026,Le droit de rouler de manière efficace,beauty,fragrance,61.81,Pires,4.0,38,60,False,2025-09-05
+prod_00027,Le droit d'évoluer autrement,fashion,accessories,119.24,Mendès,4.7,35,904,False,2025-05-17
+prod_00028,Le confort de changer en toute tranquilité,electronics,smartphone,35.37,Hardy S.A.S.,5.0,44,121,False,2024-10-07
+prod_00029,Le plaisir d'innover plus facilement,books,science,91.25,Thierry,4.1,35,248,False,2025-04-07
+prod_00030,Le droit de concrétiser vos projets avant-tout,books,business,48.49,Charles SA,4.4,56,204,False,2024-12-24
+prod_00031,L'assurance de rouler à sa source,electronics,smartphone,19.69,Roger,4.5,46,0,False,2025-06-18
+prod_00032,La possibilité d'avancer de manière sûre,toys,dolls,32.44,Fouquet Verdier SA,4.0,44,38,False,2025-02-12
+prod_00033,Le confort d'atteindre vos buts naturellement,books,fiction,48.39,Martel,3.8,44,93,False,2025-08-28
+prod_00034,Le confort d'avancer à l'état pur,toys,action_figures,31.52,Baron Duhamel S.A.S.,3.9,42,444,False,2025-10-02
+prod_00035,Le plaisir d'avancer plus rapidement,electronics,tablet,83.37,Duhamel et Fils,4.4,50,961,False,2025-09-15
+prod_00036,La liberté d'innover à sa source,beauty,makeup,18.99,Bruneau,4.1,45,798,False,2025-04-09
+prod_00037,L'assurance d'avancer à sa source,home,appliances,231.43,Bigot S.A.R.L.,4.6,44,373,False,2025-06-01
+prod_00038,L'avantage de concrétiser vos projets à la pointe,toys,action_figures,21.16,Fernandez Reynaud S.A.,4.8,33,656,False,2025-04-22
+prod_00039,L'avantage d'avancer à la pointe,beauty,makeup,18.69,Guibert,4.0,42,36,False,2025-08-06
+prod_00040,L'art d'évoluer naturellement,home,decor,46.82,Michaud SA,4.4,58,579,False,2025-05-05
+prod_00041,Le confort de louer à l'état pur,home,kitchen,69.69,Raynaud Poulain S.A.S.,4.3,42,394,False,2025-01-19
+prod_00042,L'avantage de changer avant-tout,books,fiction,43.83,Le Gall Descamps et Fils,4.0,38,7,False,2025-03-19
+prod_00043,L'assurance de rouler à l'état pur,toys,action_figures,87.4,Raynaud S.A.S.,3.4,38,752,False,2025-01-10
+prod_00044,L'assurance de changer plus rapidement,fashion,clothing,32.33,Barthelemy,3.7,47,301,False,2025-02-04
+prod_00045,Le droit d'évoluer plus facilement,home,decor,47.48,Allard,4.9,55,151,False,2025-06-11
+prod_00046,La possibilité d'innover plus facilement,fashion,clothing,79.86,Menard,4.0,56,657,True,2025-07-09
+prod_00047,L'assurance d'innover en toute tranquilité,beauty,makeup,35.19,Didier SARL,4.0,48,268,False,2025-08-20
+prod_00048,Le droit de changer naturellement,home,decor,27.9,Devaux Laurent SARL,4.0,45,262,True,2025-03-14
+prod_00049,Le plaisir d'avancer naturellement,electronics,laptop,161.04,Hubert,5.0,48,141,False,2024-12-20
+prod_00050,L'avantage d'innover en toute tranquilité,books,business,33.53,Renault,4.3,35,38,False,2025-06-23
+prod_00051,L'assurance de louer avant-tout,sports,yoga,69.14,Nicolas Moreau SA,4.4,43,784,False,2025-09-14
+prod_00052,La possibilité de rouler en toute tranquilité,sports,fitness,356.29,Merle,4.6,45,701,False,2025-01-29
+prod_00053,Le droit d'atteindre vos buts à l'état pur,books,science,58.46,Guyot S.A.,3.3,41,592,False,2025-01-24
+prod_00054,Le pouvoir d'avancer sans soucis,books,science,57.51,Aubert,4.1,40,767,False,2025-05-12
+prod_00055,L'avantage d'innover avant-tout,beauty,fragrance,129.51,Maillot,4.9,37,55,False,2024-10-30
+prod_00056,L'art d'évoluer plus facilement,sports,yoga,31.0,Jourdan et Fils,5.0,28,925,False,2025-03-19
+prod_00057,Le droit d'innover à l'état pur,books,cookbooks,47.22,Leduc Paris SARL,4.0,41,708,False,2025-03-28
+prod_00058,L'art de changer sans soucis,beauty,fragrance,93.92,Lopes,4.5,45,707,False,2025-06-09
+prod_00059,La liberté de concrétiser vos projets naturellement,toys,board_games,28.38,Courtois Humbert SA,2.5,45,911,False,2025-04-06
+prod_00060,L'avantage d'avancer plus facilement,home,furniture,49.17,Jean S.A.,3.7,43,759,False,2024-10-22
+prod_00061,Le pouvoir d'évoluer à la pointe,sports,team_sports,53.49,Chauveau,3.1,44,754,False,2025-07-03
+prod_00062,L'assurance de changer avant-tout,beauty,makeup,129.82,Ollivier,4.1,46,586,False,2025-02-23
+prod_00063,La possibilité d'avancer avant-tout,fashion,accessories,123.24,Dupuy,3.0,40,38,False,2025-02-21
+prod_00064,La possibilité d'avancer de manière efficace,home,decor,51.99,Hamel,4.2,36,367,False,2025-01-17
+prod_00065,Le droit d'avancer à sa source,fashion,watches,51.19,Petitjean Bourgeois SARL,3.8,48,817,False,2025-08-06
+prod_00066,L'avantage d'atteindre vos buts à sa source,home,appliances,23.0,Royer Brunet et Fils,3.6,37,138,False,2025-05-05
+prod_00067,L'art d'atteindre vos buts plus rapidement,toys,dolls,104.99,Toussaint,2.5,53,262,False,2025-03-16
+prod_00068,Le droit de changer avant-tout,beauty,makeup,84.7,Michaud et Fils,4.8,41,625,False,2025-05-09
+prod_00069,L'avantage de concrétiser vos projets de manière efficace,fashion,accessories,80.77,Renault,4.0,54,1,False,2024-11-17
+prod_00070,L'assurance de changer plus facilement,home,kitchen,33.29,Caron,3.8,45,794,False,2024-11-14
+prod_00071,Le droit de rouler naturellement,home,kitchen,25.26,Hamon,3.3,40,106,False,2025-05-30
+prod_00072,Le pouvoir d'évoluer à sa source,books,fiction,92.6,Perrier SARL,4.1,45,746,False,2025-05-30
+prod_00073,Le pouvoir de concrétiser vos projets sans soucis,beauty,haircare,237.64,Bertrand Laporte SA,4.3,57,235,False,2025-09-11
+prod_00074,Le confort d'avancer naturellement,electronics,laptop,37.17,Merle Andre S.A.R.L.,3.3,43,964,False,2024-10-20
+prod_00075,La possibilité de changer naturellement,electronics,headphones,58.92,Pons S.A.S.,3.9,30,501,False,2025-02-09
+prod_00076,Le confort de concrétiser vos projets autrement,fashion,shoes,92.86,Camus S.A.,4.1,52,216,False,2025-01-10
+prod_00077,La liberté de rouler à la pointe,books,science,60.04,Collet Boyer S.A.R.L.,4.4,54,449,False,2025-05-22
+prod_00078,Le pouvoir de rouler plus rapidement,toys,dolls,21.04,Gay S.A.S.,4.3,40,650,False,2025-03-28
+prod_00079,L'art d'avancer de manière sûre,home,kitchen,79.4,Hoareau S.A.S.,4.3,31,874,False,2024-12-06
+prod_00080,L'avantage d'innover de manière efficace,sports,fitness,26.4,Cohen Dupuis SA,4.5,46,589,False,2024-12-13
+prod_00081,Le plaisir d'innover à l'état pur,books,business,34.09,Michel et Fils,4.7,46,827,False,2025-04-04
+prod_00082,Le pouvoir de changer naturellement,books,business,30.79,Menard,4.7,43,296,False,2024-10-17
+prod_00083,La liberté d'avancer sans soucis,fashion,watches,48.75,Lambert,4.6,45,269,False,2025-06-11
+prod_00084,Le pouvoir d'atteindre vos buts à l'état pur,sports,fitness,32.06,Briand Courtois S.A.,4.4,52,642,False,2025-09-19
+prod_00085,Le confort d'évoluer en toute tranquilité,books,business,34.32,Delannoy S.A.R.L.,4.4,50,914,False,2025-01-08
+prod_00086,L'assurance de rouler naturellement,electronics,smartphone,33.89,Poulain,3.2,42,399,False,2024-10-24
+prod_00087,Le plaisir de changer naturellement,sports,team_sports,54.92,Dufour Renard et Fils,4.7,45,156,False,2024-11-07
+prod_00088,L'assurance d'avancer à l'état pur,home,appliances,28.95,Fabre,5.0,42,367,False,2025-05-17
+prod_00089,L'assurance de louer de manière sûre,beauty,skincare,59.51,Delorme Becker S.A.S.,4.7,48,225,False,2025-07-28
+prod_00090,Le droit d'atteindre vos buts de manière sûre,electronics,smartphone,56.35,Garnier,5.0,45,43,False,2025-09-29
+prod_00091,Le droit d'évoluer à l'état pur,home,decor,21.13,Perrin et Fils,5.0,52,42,False,2025-04-22
+prod_00092,Le confort de concrétiser vos projets de manière sûre,toys,educational,89.87,Renault,4.5,39,279,False,2025-09-24
+prod_00093,La possibilité d'évoluer autrement,beauty,makeup,23.11,Normand et Fils,4.0,48,358,False,2025-01-07
+prod_00094,Le confort d'innover à l'état pur,sports,outdoor,131.57,Joly Roux S.A.R.L.,3.9,53,42,False,2025-06-12
+prod_00095,La possibilité d'avancer de manière efficace,sports,fitness,90.92,Sauvage,4.0,50,537,False,2025-01-20
+prod_00096,Le confort de changer en toute tranquilité,toys,educational,127.09,Berthelot,4.6,40,922,False,2025-10-05
+prod_00097,Le confort d'innover autrement,books,fiction,15.64,Leclercq,4.6,54,585,False,2025-01-20
+prod_00098,Le confort d'avancer de manière sûre,beauty,makeup,48.41,Charrier,4.2,45,141,True,2025-01-18
+prod_00099,Le confort de rouler naturellement,toys,dolls,39.35,Lemonnier,3.7,43,838,True,2025-02-13
+prod_00100,Le plaisir d'innover à la pointe,books,business,128.33,Jacob,4.4,49,309,False,2025-07-09
+prod_00101,La possibilité de concrétiser vos projets à l'état pur,electronics,laptop,53.8,Antoine,3.9,42,434,False,2025-05-30
+prod_00102,L'avantage d'évoluer plus facilement,toys,board_games,63.58,Baudry,3.8,35,203,False,2025-02-23
+prod_00103,Le pouvoir de changer naturellement,fashion,shoes,35.67,Briand,4.0,47,255,False,2025-06-08
+prod_00104,Le pouvoir de louer à sa source,books,cookbooks,156.79,Pasquier S.A.S.,4.4,39,488,False,2025-06-25
+prod_00105,L'assurance de louer sans soucis,sports,fitness,16.18,Joseph SA,3.1,45,183,False,2025-01-03
+prod_00106,Le plaisir d'avancer en toute tranquilité,electronics,laptop,82.57,Hoareau SARL,3.8,51,580,False,2025-08-19
+prod_00107,Le pouvoir de changer plus rapidement,sports,outdoor,110.6,Lacroix,4.7,46,549,True,2025-01-22
+prod_00108,L'avantage d'évoluer avant-tout,beauty,fragrance,64.88,Da Costa S.A.,4.3,44,29,True,2025-06-22
+prod_00109,Le confort d'atteindre vos buts autrement,beauty,fragrance,60.51,Gérard SA,3.9,44,498,False,2025-05-24
+prod_00110,La possibilité de rouler de manière sûre,toys,educational,77.21,Charrier Weiss S.A.,4.4,32,712,False,2025-07-02
+prod_00111,L'art d'atteindre vos buts de manière efficace,home,decor,28.21,Lagarde Bailly et Fils,4.0,44,829,False,2025-06-19
+prod_00112,La liberté de louer à l'état pur,home,decor,46.93,Sanchez Brun S.A.S.,3.9,49,222,False,2024-12-06
+prod_00113,L'avantage de concrétiser vos projets à sa source,sports,yoga,102.55,Laurent,4.4,44,783,False,2025-05-23
+prod_00114,L'avantage d'évoluer autrement,fashion,shoes,18.27,Fournier S.A.R.L.,4.1,39,554,False,2025-07-30
+prod_00115,Le plaisir de changer à la pointe,books,cookbooks,61.5,Garnier,4.1,44,44,False,2025-02-01
+prod_00116,Le confort de changer plus rapidement,sports,fitness,22.87,Neveu Lecomte et Fils,3.8,54,579,False,2025-07-02
+prod_00117,La liberté d'évoluer avant-tout,home,kitchen,89.09,Verdier Simon S.A.S.,4.0,49,755,False,2025-08-13
+prod_00118,L'avantage d'évoluer en toute tranquilité,fashion,watches,17.63,Gay,4.4,60,561,False,2024-11-25
+prod_00119,L'avantage d'atteindre vos buts plus facilement,fashion,accessories,110.17,Bonnet S.A.R.L.,4.4,46,346,False,2025-03-04
+prod_00120,Le confort de concrétiser vos projets naturellement,beauty,haircare,38.56,Giraud,4.8,39,529,False,2024-11-24
+prod_00121,Le droit d'évoluer sans soucis,sports,outdoor,105.81,Meyer S.A.S.,3.4,48,725,True,2025-01-14
+prod_00122,L'art d'avancer de manière sûre,sports,outdoor,242.35,Gilles,4.8,43,257,False,2025-04-16
+prod_00123,L'avantage d'atteindre vos buts à l'état pur,sports,fitness,192.35,Barbe et Fils,4.0,50,320,False,2024-12-31
+prod_00124,L'assurance d'évoluer à la pointe,electronics,tablet,63.88,Barbier SA,3.4,41,843,False,2024-11-21
+prod_00125,Le droit de rouler plus facilement,fashion,accessories,77.84,Michel,4.3,46,691,False,2025-08-28
+prod_00126,Le confort de louer à l'état pur,toys,action_figures,116.51,Roussel SARL,3.7,52,16,False,2025-09-13
+prod_00127,L'avantage de louer à sa source,fashion,watches,23.42,Michel Blin S.A.R.L.,4.3,49,239,False,2025-05-27
+prod_00128,L'assurance de changer avant-tout,beauty,skincare,78.13,Blanc SA,4.4,47,646,False,2024-12-05
+prod_00129,La possibilité d'évoluer avant-tout,electronics,headphones,25.73,Valentin,4.0,57,609,False,2025-06-03
+prod_00130,L'assurance de concrétiser vos projets naturellement,electronics,smartphone,32.8,Marty SA,4.6,50,705,False,2025-09-13
+prod_00131,L'art d'évoluer à sa source,toys,educational,223.48,Chauvet Munoz S.A.S.,4.1,42,177,True,2025-03-09
+prod_00132,La liberté d'avancer à la pointe,electronics,headphones,47.33,Tessier S.A.S.,3.9,52,738,False,2025-06-14
+prod_00133,L'art de louer autrement,fashion,accessories,133.3,Hamon,3.8,40,792,False,2025-01-23
+prod_00134,Le confort de concrétiser vos projets plus rapidement,toys,board_games,101.79,Lelièvre Texier SARL,3.6,39,73,False,2024-12-17
+prod_00135,Le pouvoir de concrétiser vos projets à l'état pur,fashion,clothing,29.95,Toussaint,3.1,38,648,True,2024-12-30
+prod_00136,L'assurance d'évoluer plus rapidement,fashion,watches,72.48,Texier,4.0,53,919,False,2025-04-06
+prod_00137,Le confort de concrétiser vos projets à sa source,home,furniture,37.59,Regnier S.A.R.L.,4.0,51,775,True,2025-10-01
+prod_00138,Le pouvoir d'innover en toute tranquilité,home,kitchen,42.21,Étienne Bruneau S.A.R.L.,4.2,43,969,False,2025-08-16
+prod_00139,La liberté de rouler plus rapidement,electronics,smartphone,22.89,Roy,4.5,50,272,False,2024-10-24
+prod_00140,Le pouvoir de rouler en toute tranquilité,beauty,skincare,27.71,Bertin,3.8,48,837,False,2025-01-22
+prod_00141,La liberté de concrétiser vos projets de manière sûre,home,appliances,248.67,Torres,4.1,44,349,False,2025-02-02
+prod_00142,La possibilité de rouler à la pointe,toys,board_games,37.91,Nicolas Imbert SARL,4.4,44,929,False,2025-08-14
+prod_00143,L'avantage de changer à la pointe,home,furniture,124.9,Benoit,4.7,34,83,False,2025-08-07
+prod_00144,Le plaisir d'innover plus rapidement,fashion,shoes,5.79,Rousset Grondin S.A.,4.4,42,640,False,2025-10-07
+prod_00145,L'art de concrétiser vos projets autrement,electronics,laptop,13.52,Fouquet,3.7,51,985,False,2025-08-26
+prod_00146,L'art d'innover à sa source,home,kitchen,214.56,Rodrigues,4.7,32,335,False,2025-06-07
+prod_00147,La liberté de rouler plus facilement,fashion,watches,150.36,Dufour Lebon SARL,4.6,36,981,False,2025-08-17
+prod_00148,Le confort d'atteindre vos buts à la pointe,home,decor,25.44,Ledoux Lenoir SA,4.5,44,529,False,2025-08-22
+prod_00149,La possibilité d'atteindre vos buts autrement,sports,outdoor,82.78,Blanchet Royer SARL,4.7,45,300,False,2024-12-21
+prod_00150,L'avantage de rouler avant-tout,beauty,haircare,38.55,Rodrigues Arnaud et Fils,4.0,42,941,False,2025-01-27
+prod_00151,Le droit de rouler plus rapidement,electronics,headphones,11.15,Jacquot,4.9,51,359,False,2025-04-05
+prod_00152,L'avantage d'atteindre vos buts de manière sûre,fashion,clothing,31.2,Gonzalez et Fils,4.0,53,817,False,2025-08-30
+prod_00153,La liberté de louer à sa source,toys,action_figures,52.08,Lemonnier Leblanc SA,5.0,53,260,False,2025-06-19
+prod_00154,Le confort de changer autrement,home,furniture,30.68,Fernandez SARL,4.4,52,673,False,2024-11-02
+prod_00155,L'avantage de louer à la pointe,sports,fitness,30.58,Bonnin S.A.S.,5.0,52,401,False,2025-09-14
+prod_00156,L'art de louer à la pointe,books,cookbooks,33.85,Lemaître Lecoq et Fils,4.1,47,843,False,2024-11-15
+prod_00157,Le pouvoir d'innover plus rapidement,beauty,skincare,93.6,Boulay et Fils,3.9,43,492,False,2024-11-22
+prod_00158,L'assurance d'atteindre vos buts de manière sûre,beauty,haircare,174.84,Devaux Legendre S.A.,3.4,45,530,False,2025-08-19
+prod_00159,L'assurance d'innover plus rapidement,electronics,laptop,26.29,Hamel,4.6,38,946,False,2024-11-02
+prod_00160,L'assurance d'avancer sans soucis,sports,fitness,52.35,Da Costa S.A.S.,3.2,51,809,False,2025-07-27
+prod_00161,L'assurance de louer sans soucis,sports,yoga,17.51,Leclercq,5.0,44,356,False,2025-02-18
+prod_00162,Le pouvoir d'évoluer plus facilement,toys,board_games,158.64,Delmas,4.1,41,114,True,2025-02-09
+prod_00163,L'assurance de rouler à la pointe,fashion,shoes,391.84,Cousin,4.1,40,669,False,2025-04-19
+prod_00164,Le confort de changer avant-tout,toys,dolls,6.95,Maillard Jean et Fils,3.9,52,99,False,2025-02-07
+prod_00165,La liberté d'évoluer autrement,toys,board_games,91.61,Hamel,3.9,44,852,False,2025-06-10
+prod_00166,La possibilité d'évoluer plus rapidement,fashion,watches,56.79,Marty,4.1,48,369,False,2024-10-11
+prod_00167,Le droit de rouler plus rapidement,fashion,accessories,37.21,Lefort,4.7,42,223,False,2024-11-14
+prod_00168,Le pouvoir de louer à l'état pur,sports,fitness,199.07,Marchand Chauveau S.A.,3.8,46,529,False,2024-10-10
+prod_00169,L'avantage d'évoluer en toute tranquilité,beauty,fragrance,22.15,Muller Brunel SARL,4.0,56,539,False,2025-04-26
+prod_00170,L'art d'évoluer à sa source,toys,educational,142.15,Payet et Fils,4.6,44,307,False,2024-12-21
+prod_00171,La possibilité d'atteindre vos buts à la pointe,books,business,106.6,Guillet,3.8,46,249,False,2024-11-03
+prod_00172,Le plaisir d'avancer autrement,sports,team_sports,136.58,Gomez,4.8,47,483,False,2025-07-16
+prod_00173,Le droit d'atteindre vos buts en toute tranquilité,toys,dolls,104.36,Devaux S.A.S.,4.6,45,210,False,2025-07-31
+prod_00174,Le confort de concrétiser vos projets de manière efficace,electronics,laptop,16.01,Voisin S.A.S.,4.2,46,86,False,2025-05-20
+prod_00175,Le plaisir de changer naturellement,home,kitchen,63.94,Dos Santos,3.1,40,246,False,2025-06-01
+prod_00176,La possibilité de rouler de manière efficace,beauty,fragrance,35.35,Colas SARL,4.3,49,835,False,2025-05-19
+prod_00177,L'art de rouler de manière efficace,electronics,smartphone,195.12,Mercier,3.9,47,467,True,2025-04-01
+prod_00178,L'avantage d'évoluer naturellement,books,science,42.24,Lemonnier S.A.R.L.,4.5,44,676,False,2025-02-01
+prod_00179,Le droit de louer sans soucis,toys,dolls,73.49,Jean,3.8,42,918,False,2025-09-28
+prod_00180,L'avantage de louer sans soucis,fashion,watches,43.19,Payet,4.0,40,270,True,2024-12-17
+prod_00181,Le pouvoir de rouler naturellement,fashion,shoes,48.88,Robin,4.0,45,799,False,2025-01-21
+prod_00182,Le plaisir d'innover à la pointe,sports,team_sports,51.91,Meunier,4.5,51,338,False,2025-07-27
+prod_00183,Le droit d'atteindre vos buts avant-tout,books,fiction,23.2,Leduc,3.4,47,35,False,2025-01-28
+prod_00184,La liberté d'atteindre vos buts de manière sûre,home,kitchen,66.19,Adam Nguyen S.A.S.,4.0,49,715,True,2024-12-04
+prod_00185,Le confort de changer en toute tranquilité,books,science,11.43,Weber SA,4.0,49,701,True,2025-05-28
+prod_00186,L'avantage de rouler en toute tranquilité,sports,outdoor,66.45,Mathieu,4.2,41,970,False,2024-10-13
+prod_00187,Le plaisir de changer autrement,fashion,shoes,148.56,Joseph,4.9,39,964,False,2024-12-28
+prod_00188,Le pouvoir d'innover naturellement,sports,fitness,40.37,Guillou,4.8,42,434,True,2025-01-09
+prod_00189,L'art de concrétiser vos projets de manière efficace,books,fiction,41.48,Boucher,4.8,44,341,False,2024-11-15
+prod_00190,L'avantage d'atteindre vos buts plus facilement,home,decor,25.41,Bertin,3.1,40,863,False,2025-08-22
+prod_00191,Le plaisir d'innover de manière efficace,fashion,shoes,40.8,Clerc S.A.,5.0,42,390,False,2025-04-08
+prod_00192,Le confort d'atteindre vos buts plus facilement,sports,team_sports,21.61,Verdier,3.3,52,394,False,2025-07-21
+prod_00193,Le confort de rouler plus facilement,fashion,clothing,109.88,Olivier S.A.,4.3,42,848,False,2025-01-18
+prod_00194,La possibilité de rouler plus facilement,toys,dolls,235.2,Peron,3.6,39,493,False,2025-05-19
+prod_00195,Le confort d'atteindre vos buts naturellement,sports,fitness,70.13,Gaillard SA,4.2,48,914,False,2025-08-11
+prod_00196,Le confort de concrétiser vos projets avant-tout,sports,fitness,11.33,Chevallier et Fils,4.8,41,943,False,2025-04-18
+prod_00197,L'art d'atteindre vos buts plus facilement,books,science,147.56,Marty S.A.R.L.,5.0,37,420,False,2025-05-18
+prod_00198,L'assurance d'évoluer en toute tranquilité,sports,outdoor,196.9,Mahe,4.4,51,785,False,2025-01-05
+prod_00199,Le pouvoir d'innover sans soucis,beauty,skincare,170.06,Marion Vallet SA,4.5,51,894,False,2024-12-22
+prod_00200,Le droit de concrétiser vos projets naturellement,books,fiction,101.03,Da Costa,3.9,41,175,False,2025-02-27
+prod_00201,L'avantage d'avancer à la pointe,books,science,34.5,Duval S.A.S.,3.4,35,155,False,2025-04-30
+prod_00202,La possibilité d'évoluer plus facilement,books,business,69.18,Reynaud,4.3,40,777,False,2024-12-07
+prod_00203,L'art de changer de manière efficace,electronics,headphones,64.78,Antoine,4.8,44,639,False,2025-08-22
+prod_00204,Le plaisir d'atteindre vos buts autrement,home,kitchen,51.33,Valette,4.2,43,252,False,2025-09-27
+prod_00205,Le droit d'avancer plus rapidement,beauty,skincare,19.26,Lebon,3.6,46,506,False,2025-04-09
+prod_00206,Le confort de changer plus facilement,beauty,makeup,25.82,Dupuis,3.7,47,846,False,2025-01-23
+prod_00207,Le confort d'innover autrement,sports,team_sports,131.77,Labbé Carpentier SA,3.5,54,12,True,2025-05-09
+prod_00208,L'assurance d'atteindre vos buts plus rapidement,sports,team_sports,23.24,Sauvage,3.7,47,957,True,2025-09-13
+prod_00209,L'avantage de louer à la pointe,fashion,accessories,91.99,Guérin Launay S.A.,4.4,48,569,False,2025-09-16
+prod_00210,La possibilité de rouler à la pointe,fashion,shoes,223.72,Mendès,3.9,47,231,False,2025-08-07
+prod_00211,Le droit de louer avant-tout,fashion,accessories,27.74,Poirier,3.7,52,565,False,2024-10-26
+prod_00212,Le confort de changer plus rapidement,sports,outdoor,65.2,Toussaint,3.5,36,659,False,2025-07-08
+prod_00213,L'avantage de rouler naturellement,electronics,tablet,53.87,Wagner,4.4,52,868,False,2025-05-14
+prod_00214,L'avantage d'avancer de manière efficace,fashion,accessories,24.76,Labbé,5.0,42,833,False,2024-11-30
+prod_00215,Le pouvoir de rouler à la pointe,toys,educational,113.97,Laurent Hubert SARL,4.9,37,717,True,2025-10-07
+prod_00216,Le pouvoir d'évoluer à sa source,home,furniture,29.95,Lévy Guichard et Fils,4.5,46,826,False,2025-08-12
+prod_00217,Le plaisir d'atteindre vos buts à l'état pur,home,decor,233.05,Gosselin Leblanc SA,4.2,51,282,False,2025-04-13
+prod_00218,La possibilité d'évoluer plus rapidement,books,fiction,67.05,Besnard SARL,4.1,43,703,False,2024-11-26
+prod_00219,Le plaisir d'innover de manière efficace,home,appliances,48.24,Menard Rocher SARL,4.2,42,234,False,2025-05-11
+prod_00220,L'art d'atteindre vos buts sans soucis,toys,board_games,34.81,Grondin Hardy SA,5.0,39,153,False,2025-05-08
+prod_00221,L'avantage de concrétiser vos projets de manière efficace,sports,fitness,63.79,Vincent Mary S.A.R.L.,4.1,49,705,False,2025-09-07
+prod_00222,L'avantage d'évoluer autrement,electronics,laptop,196.54,Blin,4.6,40,227,False,2025-04-24
+prod_00223,L'art de changer sans soucis,books,science,15.8,De Sousa,4.7,48,409,False,2025-07-24
+prod_00224,Le droit d'évoluer en toute tranquilité,sports,fitness,21.62,Perrot,4.3,44,709,True,2025-08-31
+prod_00225,L'art d'avancer à sa source,toys,educational,46.46,Royer et Fils,5.0,41,229,True,2025-06-27
+prod_00226,La liberté d'atteindre vos buts à sa source,electronics,smartphone,14.01,Pierre Menard et Fils,3.8,57,377,False,2025-08-17
+prod_00227,Le droit d'innover sans soucis,home,decor,29.11,Bouchet SARL,4.6,44,796,False,2025-09-06
+prod_00228,La liberté d'atteindre vos buts à l'état pur,electronics,smartphone,18.0,Laporte Perez et Fils,4.1,44,245,False,2025-06-08
+prod_00229,L'avantage de louer à l'état pur,toys,action_figures,94.96,Durand,4.1,35,388,False,2024-12-02
+prod_00230,Le plaisir de rouler à la pointe,home,furniture,151.81,Muller SA,4.2,55,834,False,2025-07-16
+prod_00231,Le pouvoir d'évoluer autrement,fashion,clothing,26.22,Chartier Payet SA,3.7,45,909,False,2025-06-06
+prod_00232,Le plaisir d'avancer de manière efficace,sports,yoga,87.84,Boulanger,4.1,54,283,False,2024-12-28
+prod_00233,L'assurance de changer à la pointe,electronics,tablet,50.32,Rodriguez,4.2,36,79,False,2024-10-16
+prod_00234,L'avantage d'évoluer en toute tranquilité,home,kitchen,42.67,Deschamps,4.3,52,809,False,2025-03-15
+prod_00235,Le pouvoir d'innover de manière efficace,beauty,skincare,25.97,Ollivier,4.8,52,219,False,2025-04-18
+prod_00236,Le confort de concrétiser vos projets à sa source,beauty,haircare,119.93,Gonzalez,4.3,48,221,False,2025-03-11
+prod_00237,L'art d'innover à sa source,beauty,makeup,48.75,Jacques Collet SARL,4.4,43,137,False,2024-10-14
+prod_00238,L'avantage de concrétiser vos projets avant-tout,books,fiction,24.45,Michel,4.2,44,496,False,2025-08-22
+prod_00239,Le droit d'évoluer à l'état pur,sports,team_sports,85.18,Thibault Leroux SA,3.2,37,934,False,2024-12-11
+prod_00240,Le confort de changer de manière sûre,toys,action_figures,46.8,Garcia Leclercq S.A.,4.5,43,834,False,2024-11-14
+prod_00241,Le confort d'innover à l'état pur,sports,fitness,100.2,Lesage Faure et Fils,4.4,49,495,False,2024-10-08
+prod_00242,Le pouvoir d'innover à sa source,fashion,clothing,17.14,Perret,3.6,40,943,False,2025-05-05
+prod_00243,Le droit d'avancer naturellement,sports,outdoor,43.78,Ribeiro,3.7,45,215,False,2025-05-27
+prod_00244,La possibilité de changer autrement,electronics,tablet,12.22,Potier Vincent SA,4.0,47,195,False,2025-03-24
+prod_00245,L'assurance d'avancer naturellement,electronics,headphones,86.21,Navarro,3.8,52,566,False,2025-09-25
+prod_00246,Le confort de changer naturellement,beauty,makeup,49.37,Mallet,3.1,41,104,False,2025-03-11
+prod_00247,L'assurance d'avancer à l'état pur,fashion,accessories,157.48,Normand Maillet SARL,4.1,40,491,False,2024-12-13
+prod_00248,L'assurance d'atteindre vos buts plus facilement,toys,educational,58.77,Marin,4.9,50,251,False,2024-12-29
+prod_00249,Le confort de changer plus rapidement,home,kitchen,92.47,Joubert,4.3,49,155,False,2025-01-11
+prod_00250,La possibilité d'atteindre vos buts de manière sûre,fashion,accessories,154.99,Loiseau Leduc SA,3.8,45,653,True,2025-02-21
+prod_00251,Le droit d'atteindre vos buts avant-tout,sports,team_sports,42.83,Denis Ledoux SARL,5.0,55,880,False,2025-05-09
+prod_00252,Le pouvoir de louer en toute tranquilité,sports,team_sports,22.67,Michaud,4.2,39,15,False,2025-03-27
+prod_00253,La possibilité de louer plus rapidement,electronics,headphones,60.17,Gomes,4.1,55,242,False,2025-04-26
+prod_00254,L'assurance d'avancer de manière efficace,home,kitchen,104.1,Thibault,4.1,39,216,False,2025-02-01
+prod_00255,Le droit d'évoluer de manière sûre,books,cookbooks,46.4,Lagarde,4.4,43,598,False,2024-10-24
+prod_00256,Le droit d'atteindre vos buts autrement,toys,educational,50.84,Gaillard Vidal S.A.S.,5.0,42,17,False,2025-02-02
+prod_00257,L'assurance de concrétiser vos projets à l'état pur,toys,dolls,41.51,Maillard,4.6,43,805,False,2025-07-24
+prod_00258,Le plaisir de changer naturellement,fashion,clothing,59.71,Bailly Morvan S.A.,4.1,45,749,False,2025-04-10
+prod_00259,Le droit de louer naturellement,toys,board_games,22.27,Leleu,3.3,42,78,False,2024-10-18
+prod_00260,La possibilité de concrétiser vos projets en toute tranquilité,beauty,fragrance,32.9,Leconte Laine S.A.R.L.,4.1,37,232,False,2025-08-10
+prod_00261,L'avantage d'innover autrement,sports,team_sports,89.85,Leclerc Becker S.A.R.L.,4.5,42,51,False,2025-04-03
+prod_00262,La possibilité d'innover sans soucis,home,furniture,17.09,Weber et Fils,3.3,38,258,False,2025-03-18
+prod_00263,Le droit de changer avant-tout,electronics,smartphone,36.85,Moulin,3.9,45,988,False,2025-07-22
+prod_00264,Le pouvoir d'avancer à la pointe,books,business,40.61,Peron S.A.S.,4.3,44,548,False,2024-10-25
+prod_00265,Le plaisir de changer en toute tranquilité,sports,yoga,48.91,Guillon S.A.R.L.,4.3,42,147,False,2024-11-20
+prod_00266,Le pouvoir de louer plus facilement,home,kitchen,16.11,Regnier Samson SARL,5.0,48,908,False,2025-03-06
+prod_00267,La possibilité d'innover de manière efficace,fashion,watches,158.2,Marchal SA,3.4,53,781,False,2025-05-10
+prod_00268,La liberté de louer à sa source,home,furniture,107.34,Legros,3.6,36,804,False,2025-09-15
+prod_00269,L'art de concrétiser vos projets sans soucis,fashion,shoes,53.72,Royer,4.8,46,958,False,2025-09-05
+prod_00270,L'assurance de changer de manière efficace,home,decor,14.69,Thierry Gomez SARL,4.4,36,958,False,2025-10-01
+prod_00271,La possibilité de concrétiser vos projets en toute tranquilité,beauty,makeup,228.1,Michel S.A.S.,4.0,47,951,False,2025-02-07
+prod_00272,La possibilité d'avancer naturellement,toys,board_games,80.55,Jacob,4.9,27,14,True,2025-08-23
+prod_00273,L'avantage d'innover plus rapidement,toys,dolls,187.1,Mary Sauvage et Fils,4.0,54,174,False,2025-06-22
+prod_00274,Le confort de concrétiser vos projets avant-tout,electronics,tablet,31.88,Gérard S.A.R.L.,4.4,46,870,False,2024-12-16
+prod_00275,L'avantage d'avancer en toute tranquilité,home,furniture,88.92,Pages,4.4,61,847,False,2025-02-19
+prod_00276,L'art de louer autrement,books,business,30.19,Leleu,4.0,46,363,False,2025-05-18
+prod_00277,La possibilité de changer de manière sûre,beauty,skincare,35.78,Hernandez,4.3,50,175,False,2025-04-16
+prod_00278,L'assurance de concrétiser vos projets de manière efficace,sports,fitness,129.35,Gomez Moreau SARL,4.2,39,985,False,2025-03-19
+prod_00279,L'assurance d'avancer à sa source,electronics,smartphone,24.1,Potier Gaillard et Fils,3.7,48,933,False,2024-12-02
+prod_00280,L'avantage de rouler plus facilement,home,decor,37.02,Leblanc,3.9,45,212,False,2025-05-25
+prod_00281,La liberté d'innover en toute tranquilité,sports,fitness,65.38,Barbier et Fils,4.5,44,596,False,2024-12-14
+prod_00282,L'art d'atteindre vos buts plus rapidement,toys,action_figures,28.88,Evrard Toussaint S.A.S.,3.8,54,541,False,2024-12-21
+prod_00283,La liberté d'évoluer sans soucis,fashion,shoes,57.54,Moreau Schmitt S.A.S.,4.6,35,832,False,2025-01-10
+prod_00284,Le pouvoir de concrétiser vos projets de manière efficace,beauty,skincare,65.8,Peltier,3.8,44,632,False,2025-03-11
+prod_00285,L'assurance de rouler en toute tranquilité,home,appliances,82.81,Nguyen,3.1,51,269,False,2025-08-18
+prod_00286,L'avantage d'évoluer de manière efficace,books,business,69.15,Fouquet Da Silva S.A.,4.3,58,151,False,2024-11-18
+prod_00287,L'art d'évoluer en toute tranquilité,toys,educational,170.57,Joubert Lemonnier S.A.R.L.,4.9,42,792,False,2025-05-01
+prod_00288,L'assurance d'atteindre vos buts autrement,home,furniture,41.72,Hamon Delattre S.A.,4.5,36,168,False,2025-04-11
+prod_00289,La possibilité d'évoluer autrement,beauty,fragrance,43.18,Allard Laroche SARL,4.0,41,801,False,2025-04-18
+prod_00290,La possibilité d'évoluer à sa source,toys,board_games,54.5,Bouvier,3.7,42,130,False,2025-03-02
+prod_00291,Le pouvoir de louer à l'état pur,home,appliances,85.72,Gomes,4.7,48,636,False,2025-05-18
+prod_00292,La liberté d'avancer avant-tout,toys,board_games,101.44,Clerc Adam S.A.R.L.,4.6,44,157,False,2024-11-09
+prod_00293,L'assurance d'avancer plus rapidement,beauty,skincare,88.25,Couturier et Fils,4.4,47,186,False,2025-06-13
+prod_00294,L'art d'atteindre vos buts à la pointe,toys,dolls,104.49,Lebreton Gautier S.A.,3.8,49,957,False,2025-04-10
+prod_00295,L'assurance d'avancer de manière sûre,books,fiction,53.36,Lagarde S.A.,4.0,39,720,False,2024-10-15
+prod_00296,La possibilité de changer à sa source,toys,educational,20.94,Bonnin S.A.,4.0,51,670,False,2024-11-20
+prod_00297,Le pouvoir d'évoluer de manière efficace,fashion,shoes,27.87,Rodrigues S.A.S.,3.9,40,915,False,2024-11-05
+prod_00298,L'avantage d'évoluer à l'état pur,home,furniture,27.88,Petit Charpentier S.A.R.L.,4.0,37,426,True,2025-09-27
+prod_00299,Le droit d'atteindre vos buts de manière sûre,home,furniture,68.97,Gosselin Humbert SA,4.3,45,346,False,2025-06-30
+prod_00300,Le confort d'évoluer de manière efficace,home,decor,110.41,Martins Jacques S.A.S.,4.3,51,107,False,2025-09-02
+prod_00301,Le pouvoir d'atteindre vos buts de manière efficace,electronics,smartphone,40.63,Lemaître S.A.R.L.,4.3,41,643,False,2024-11-23
+prod_00302,La liberté d'atteindre vos buts autrement,electronics,tablet,40.41,Colin,4.2,49,475,False,2024-11-27
+prod_00303,L'avantage de changer autrement,toys,dolls,11.88,Costa,4.9,44,770,False,2025-07-29
+prod_00304,L'art d'avancer en toute tranquilité,toys,dolls,73.93,Brun Colas S.A.R.L.,4.1,41,934,False,2025-06-25
+prod_00305,L'art d'innover naturellement,electronics,headphones,175.24,Parent,4.3,52,47,False,2024-11-09
+prod_00306,La liberté d'atteindre vos buts de manière sûre,home,furniture,171.9,Bertin et Fils,3.3,44,507,True,2025-08-18
+prod_00307,L'assurance d'innover à la pointe,toys,board_games,23.31,Allain,4.6,61,939,False,2025-04-17
+prod_00308,Le droit d'avancer plus facilement,home,kitchen,15.54,Benard,4.3,53,193,False,2025-04-01
+prod_00309,Le plaisir de rouler avant-tout,beauty,haircare,47.96,Guibert,4.8,50,483,False,2025-10-07
+prod_00310,L'art de rouler à sa source,home,furniture,40.43,Étienne,4.1,48,701,False,2025-01-02
+prod_00311,La liberté d'atteindre vos buts à l'état pur,electronics,laptop,164.36,Salmon,4.2,44,677,False,2025-01-17
+prod_00312,Le plaisir de concrétiser vos projets en toute tranquilité,books,fiction,40.97,Delorme,4.1,38,682,False,2025-07-24
+prod_00313,La liberté d'évoluer plus facilement,fashion,watches,39.53,Ferrand SA,4.6,44,626,False,2025-03-05
+prod_00314,Le plaisir de rouler sans soucis,electronics,headphones,64.42,Laroche S.A.R.L.,4.4,48,844,False,2025-08-14
+prod_00315,Le plaisir de rouler autrement,fashion,clothing,36.17,Aubert,4.3,39,508,True,2024-10-10
+prod_00316,Le plaisir d'avancer de manière efficace,electronics,smartphone,15.2,Bonnet Loiseau et Fils,4.0,50,818,False,2024-11-10
+prod_00317,Le droit d'innover de manière efficace,toys,board_games,21.09,Garcia,4.4,38,35,True,2025-08-05
+prod_00318,Le droit d'atteindre vos buts à la pointe,beauty,makeup,32.63,Mace Voisin et Fils,4.7,53,128,False,2024-11-13
+prod_00319,L'assurance de changer avant-tout,fashion,clothing,62.9,Bouchet et Fils,4.4,55,329,False,2025-08-27
+prod_00320,Le droit de rouler en toute tranquilité,home,kitchen,93.41,Muller,4.6,42,189,False,2025-02-06
+prod_00321,L'assurance de rouler autrement,toys,dolls,15.84,Laporte SARL,4.3,46,663,False,2025-01-02
+prod_00322,La possibilité d'évoluer sans soucis,fashion,shoes,25.75,Delattre Lelièvre S.A.,3.7,35,122,False,2025-09-07
+prod_00323,La possibilité de rouler naturellement,fashion,clothing,79.52,Bouvet Dos Santos S.A.,4.3,48,448,False,2024-12-26
+prod_00324,La liberté d'innover en toute tranquilité,electronics,laptop,110.8,Vallée et Fils,4.8,43,110,False,2025-02-06
+prod_00325,La liberté de concrétiser vos projets de manière efficace,home,appliances,47.13,Delmas et Fils,3.8,37,800,False,2025-05-02
+prod_00326,L'art d'avancer sans soucis,books,cookbooks,78.77,Pineau Gay S.A.,4.8,42,243,False,2025-03-12
+prod_00327,Le pouvoir de rouler en toute tranquilité,books,business,110.09,Salmon,4.0,48,498,False,2025-05-22
+prod_00328,Le confort de rouler sans soucis,toys,board_games,65.77,Hebert,4.9,53,436,False,2025-09-06
+prod_00329,Le plaisir de concrétiser vos projets autrement,electronics,headphones,121.44,Perez Traore S.A.,4.7,47,662,False,2025-07-24
+prod_00330,L'art d'atteindre vos buts plus facilement,electronics,laptop,104.19,Costa Mary et Fils,4.2,38,756,True,2025-08-17
+prod_00331,L'art d'atteindre vos buts à l'état pur,toys,board_games,63.16,Didier et Fils,4.6,42,542,False,2024-12-08
+prod_00332,L'assurance d'évoluer à l'état pur,fashion,accessories,135.02,Lemonnier,4.2,45,121,False,2024-10-13
+prod_00333,Le plaisir de concrétiser vos projets à la pointe,electronics,laptop,35.2,Bourdon S.A.,4.1,33,701,False,2025-01-19
+prod_00334,Le confort de concrétiser vos projets de manière sûre,electronics,headphones,9.91,Chauvet,3.1,40,552,False,2025-08-13
+prod_00335,Le droit d'atteindre vos buts autrement,electronics,headphones,45.9,Ferreira,4.1,44,845,False,2025-01-18
+prod_00336,Le plaisir d'innover à l'état pur,beauty,skincare,28.21,Hamel,4.4,54,128,False,2025-06-12
+prod_00337,La possibilité d'évoluer de manière sûre,electronics,headphones,55.82,Thierry,4.2,51,669,False,2025-01-23
+prod_00338,Le droit d'atteindre vos buts en toute tranquilité,books,business,84.99,Joseph SA,4.2,48,226,True,2025-07-15
+prod_00339,Le plaisir de changer sans soucis,sports,fitness,39.44,Legrand Millet et Fils,4.1,42,455,False,2024-12-15
+prod_00340,La liberté de rouler de manière sûre,fashion,shoes,58.6,Gros,4.3,47,367,False,2025-09-06
+prod_00341,Le pouvoir de louer naturellement,toys,board_games,39.72,Marie S.A.S.,3.5,41,201,False,2025-04-15
+prod_00342,L'avantage d'évoluer à sa source,books,business,109.6,Bernard,4.1,43,95,False,2025-01-29
+prod_00343,L'assurance d'innover autrement,home,appliances,53.62,Gauthier S.A.,4.7,47,855,False,2025-04-07
+prod_00344,Le pouvoir de louer à la pointe,home,appliances,22.52,Guyon,3.7,55,863,False,2025-08-02
+prod_00345,L'art de louer avant-tout,beauty,makeup,189.87,Pons Delorme S.A.,4.7,42,356,False,2025-03-27
+prod_00346,La possibilité de louer en toute tranquilité,beauty,haircare,26.45,Teixeira,3.0,32,18,False,2024-12-07
+prod_00347,L'avantage d'évoluer de manière sûre,fashion,shoes,78.54,Albert Turpin S.A.S.,3.6,61,347,False,2024-11-10
+prod_00348,Le confort d'innover naturellement,toys,action_figures,37.71,Maury,4.4,48,210,False,2025-03-24
+prod_00349,L'avantage de changer plus rapidement,toys,board_games,63.75,Petit SA,3.9,36,523,False,2025-04-13
+prod_00350,L'art d'atteindre vos buts à la pointe,toys,board_games,38.55,Bernard S.A.R.L.,4.5,41,691,False,2025-08-24
+prod_00351,Le droit de concrétiser vos projets à l'état pur,books,cookbooks,49.81,Guyot et Fils,4.9,51,403,False,2025-03-18
+prod_00352,La possibilité de concrétiser vos projets plus facilement,toys,educational,23.09,Briand Meunier S.A.S.,4.4,52,492,False,2025-04-13
+prod_00353,L'assurance d'atteindre vos buts sans soucis,home,furniture,20.73,Laurent,4.3,54,788,False,2025-01-11
+prod_00354,L'assurance de changer de manière efficace,toys,action_figures,55.84,Maréchal Godard S.A.,5.0,45,560,True,2025-07-27
+prod_00355,L'art d'innover à la pointe,electronics,tablet,72.88,Albert Coste S.A.,4.6,36,424,False,2025-02-16
+prod_00356,Le plaisir de changer de manière sûre,beauty,fragrance,22.47,Carlier,4.4,46,316,False,2025-07-09
+prod_00357,Le confort de changer en toute tranquilité,toys,educational,74.42,Marie,3.3,38,553,False,2025-07-26
+prod_00358,L'art de rouler sans soucis,home,decor,44.05,Léger,4.4,66,818,True,2024-11-17
+prod_00359,La liberté de louer à l'état pur,fashion,watches,120.3,Morin,4.8,46,516,False,2025-06-28
+prod_00360,Le droit de concrétiser vos projets sans soucis,beauty,fragrance,115.24,Guérin,4.5,44,637,False,2025-07-31
+prod_00361,Le droit d'innover en toute tranquilité,toys,action_figures,49.67,Grenier,3.9,42,743,False,2024-10-22
+prod_00362,L'avantage de rouler en toute tranquilité,books,fiction,74.3,Lopes SARL,4.8,56,15,False,2025-06-17
+prod_00363,Le pouvoir de rouler plus rapidement,sports,fitness,21.82,Jacquot Aubert SARL,3.0,51,619,False,2024-10-29
+prod_00364,Le confort d'avancer de manière efficace,home,appliances,31.43,Da Silva,4.1,51,418,False,2025-04-20
+prod_00365,La possibilité d'avancer de manière sûre,books,business,37.93,Turpin,4.0,46,664,False,2025-07-11
+prod_00366,Le pouvoir de concrétiser vos projets naturellement,beauty,skincare,76.24,Seguin SARL,4.6,46,122,False,2025-08-10
+prod_00367,L'assurance de concrétiser vos projets sans soucis,toys,board_games,67.68,Godard SARL,4.3,39,911,True,2025-08-24
+prod_00368,L'art d'atteindre vos buts sans soucis,books,science,147.4,Gérard S.A.,4.2,47,823,False,2025-01-29
+prod_00369,Le confort d'avancer en toute tranquilité,fashion,shoes,189.59,Lacombe Loiseau SA,4.3,48,950,False,2025-05-31
+prod_00370,L'art d'atteindre vos buts en toute tranquilité,home,furniture,44.24,Andre SA,4.1,43,932,False,2025-09-04
+prod_00371,La possibilité de rouler plus facilement,beauty,haircare,42.27,Fouquet,4.9,43,949,False,2025-05-01
+prod_00372,Le plaisir de changer à l'état pur,books,science,42.98,Garcia Muller S.A.S.,4.5,56,118,True,2025-08-26
+prod_00373,Le plaisir de changer plus facilement,toys,action_figures,36.21,Durand,3.9,48,207,False,2024-11-15
+prod_00374,La possibilité de rouler à la pointe,sports,fitness,62.38,Couturier,3.5,53,684,True,2025-05-13
+prod_00375,Le droit de concrétiser vos projets plus rapidement,beauty,makeup,38.29,Renaud Pichon S.A.R.L.,4.1,47,983,True,2024-10-26
+prod_00376,Le pouvoir d'innover plus facilement,toys,dolls,101.99,Pineau Paul SA,2.9,41,932,False,2024-11-25
+prod_00377,La liberté d'innover de manière sûre,home,decor,167.79,Mace Lemonnier S.A.S.,4.4,40,386,False,2024-11-09
+prod_00378,Le pouvoir d'évoluer naturellement,books,cookbooks,43.15,Maillard Arnaud S.A.,4.5,55,653,False,2025-02-27
+prod_00379,La liberté de changer à sa source,electronics,tablet,13.8,Munoz,4.7,43,932,True,2024-11-18
+prod_00380,Le plaisir d'atteindre vos buts plus facilement,toys,dolls,63.93,Richard,3.9,49,268,False,2025-07-21
+prod_00381,La liberté d'évoluer de manière sûre,home,kitchen,29.21,Guilbert,4.1,47,518,False,2025-09-17
+prod_00382,La possibilité de rouler avant-tout,toys,dolls,13.94,Jacques,4.4,44,867,False,2025-07-12
+prod_00383,L'assurance d'évoluer de manière sûre,electronics,tablet,372.53,Vallée,4.6,58,26,False,2025-09-19
+prod_00384,La possibilité d'évoluer avant-tout,books,cookbooks,111.24,Andre,4.7,52,407,False,2024-12-17
+prod_00385,L'art de concrétiser vos projets à l'état pur,sports,outdoor,32.92,Lévêque,3.7,39,512,False,2025-03-22
+prod_00386,Le plaisir de louer sans soucis,beauty,makeup,24.86,Valentin SA,3.6,46,298,False,2025-09-01
+prod_00387,La possibilité d'évoluer à l'état pur,books,business,107.36,Vincent Dupont SA,4.5,43,425,False,2024-12-26
+prod_00388,L'assurance de changer de manière sûre,sports,yoga,101.9,Clément,3.7,34,319,False,2025-06-18
+prod_00389,Le plaisir d'innover de manière sûre,sports,fitness,14.56,Andre,4.2,43,166,False,2024-10-08
+prod_00390,La possibilité de louer de manière efficace,home,furniture,50.39,Gomez Delannoy SA,4.3,45,673,True,2024-10-20
+prod_00391,Le pouvoir d'avancer à l'état pur,books,fiction,48.5,Bousquet Chrétien SARL,4.0,50,109,False,2025-08-01
+prod_00392,Le pouvoir de changer autrement,beauty,makeup,38.43,Tessier,4.0,44,645,False,2025-03-03
+prod_00393,Le pouvoir d'innover sans soucis,sports,outdoor,23.13,Rémy S.A.,4.4,49,626,False,2025-06-15
+prod_00394,Le confort de rouler autrement,fashion,shoes,231.88,Chevalier Le Goff S.A.R.L.,4.5,36,812,False,2025-02-25
+prod_00395,Le plaisir de rouler à l'état pur,fashion,watches,53.02,Huet,3.6,40,73,False,2025-04-20
+prod_00396,La possibilité de rouler sans soucis,home,kitchen,47.87,Faivre Munoz S.A.R.L.,5.0,30,575,False,2024-12-25
+prod_00397,L'art de rouler naturellement,books,science,89.55,Vaillant,5.0,36,562,True,2025-06-19
+prod_00398,La possibilité d'avancer en toute tranquilité,sports,team_sports,21.85,Chauvet,4.4,45,601,False,2025-01-09
+prod_00399,L'avantage de changer plus rapidement,sports,outdoor,24.26,Royer,3.9,41,993,False,2025-08-12
+prod_00400,L'avantage d'atteindre vos buts plus facilement,fashion,watches,199.67,Dufour SA,4.4,60,922,False,2025-07-15
+prod_00401,L'art de louer de manière efficace,books,business,18.32,Boyer S.A.S.,4.2,55,199,True,2025-07-13
+prod_00402,Le plaisir de louer de manière efficace,toys,action_figures,78.46,Rey et Fils,4.4,52,227,False,2025-08-07
+prod_00403,La possibilité d'évoluer de manière efficace,sports,outdoor,43.17,Pichon S.A.,4.4,41,946,False,2025-08-25
+prod_00404,Le pouvoir d'atteindre vos buts avant-tout,beauty,skincare,14.31,Duhamel,4.0,41,938,False,2025-08-20
+prod_00405,Le pouvoir de changer plus facilement,home,decor,38.43,Lopez SARL,3.6,44,757,False,2024-12-25
+prod_00406,La liberté de louer de manière efficace,books,science,38.36,Ferrand S.A.S.,4.0,36,662,False,2025-05-02
+prod_00407,L'art d'avancer de manière sûre,beauty,skincare,53.25,Hamon S.A.S.,4.4,42,48,False,2025-06-21
+prod_00408,Le droit de rouler de manière sûre,books,fiction,17.78,Masson SARL,4.2,50,26,False,2025-01-18
+prod_00409,Le plaisir d'innover de manière efficace,home,kitchen,31.91,Maillard Dufour S.A.,4.2,49,695,False,2024-12-09
+prod_00410,Le confort d'avancer à sa source,home,appliances,203.86,Pottier et Fils,4.1,47,675,True,2025-08-17
+prod_00411,Le plaisir d'atteindre vos buts autrement,beauty,haircare,60.33,Briand,4.1,62,378,False,2025-05-24
+prod_00412,Le plaisir de louer à sa source,toys,dolls,70.77,Thomas,3.7,58,697,False,2025-09-27
+prod_00413,Le pouvoir d'atteindre vos buts de manière efficace,sports,outdoor,27.59,Marty Daniel SARL,4.3,59,876,False,2025-03-09
+prod_00414,L'avantage de rouler à la pointe,sports,yoga,90.09,Pinto,4.3,43,571,False,2025-01-07
+prod_00415,L'avantage de concrétiser vos projets naturellement,electronics,headphones,65.03,Petitjean,4.9,61,158,True,2024-12-23
+prod_00416,Le confort de louer de manière sûre,books,fiction,87.75,Petit,4.7,36,389,False,2024-12-28
+prod_00417,L'assurance d'avancer plus rapidement,toys,board_games,34.36,Toussaint SA,5.0,39,119,False,2024-10-12
+prod_00418,L'avantage de rouler plus rapidement,fashion,accessories,184.73,Barbier,3.9,46,410,False,2024-11-07
+prod_00419,Le confort de concrétiser vos projets avant-tout,electronics,smartphone,32.17,Durand Le Gall S.A.,4.1,62,448,False,2025-02-10
+prod_00420,La liberté d'innover plus rapidement,electronics,headphones,22.97,Lacombe,3.7,45,462,False,2025-02-18
+prod_00421,Le confort d'évoluer de manière efficace,fashion,clothing,44.93,Petit,3.9,51,457,False,2025-02-07
+prod_00422,Le droit de rouler autrement,sports,outdoor,6.26,Thibault,4.0,43,514,False,2025-06-22
+prod_00423,La liberté de changer à sa source,fashion,clothing,41.78,Menard Ollivier S.A.R.L.,4.5,54,823,False,2025-03-12
+prod_00424,Le droit d'évoluer plus facilement,fashion,watches,20.61,Mahe S.A.,4.8,46,495,False,2025-10-01
+prod_00425,La possibilité de concrétiser vos projets plus rapidement,books,business,7.73,Mercier,4.2,47,910,False,2025-04-06
+prod_00426,La liberté de rouler de manière efficace,beauty,makeup,78.53,Simon,4.3,40,557,False,2024-12-05
+prod_00427,L'avantage de louer plus rapidement,sports,team_sports,141.17,Barre S.A.R.L.,4.5,44,734,False,2025-04-06
+prod_00428,Le pouvoir de concrétiser vos projets plus rapidement,home,appliances,27.12,Pruvost Girard et Fils,3.5,47,967,False,2025-04-04
+prod_00429,L'assurance d'innover autrement,sports,fitness,28.4,Courtois,4.6,41,635,False,2025-02-15
+prod_00430,Le plaisir d'avancer à la pointe,home,furniture,138.27,Reynaud,4.1,47,250,False,2024-11-21
+prod_00431,Le pouvoir de louer naturellement,toys,dolls,82.14,Perret S.A.R.L.,5.0,46,692,True,2025-09-19
+prod_00432,La liberté de concrétiser vos projets sans soucis,beauty,makeup,26.32,Coste Gérard SARL,4.4,47,941,False,2024-11-13
+prod_00433,Le plaisir de concrétiser vos projets plus rapidement,toys,educational,103.47,Faure,4.2,52,172,False,2024-12-20
+prod_00434,L'avantage d'avancer plus rapidement,books,fiction,36.52,Lemaître,4.3,41,722,False,2024-12-19
+prod_00435,L'art de rouler en toute tranquilité,books,science,45.48,Hervé Renaud S.A.S.,4.5,45,98,False,2025-06-05
+prod_00436,Le confort d'innover plus facilement,electronics,laptop,54.15,Poulain,4.3,46,578,False,2025-02-02
+prod_00437,L'avantage d'atteindre vos buts naturellement,fashion,watches,40.71,Carpentier,4.0,46,515,False,2025-06-04
+prod_00438,L'avantage de changer avant-tout,sports,fitness,132.95,Besnard Becker S.A.,3.8,62,403,False,2025-09-13
+prod_00439,L'assurance d'atteindre vos buts en toute tranquilité,books,science,84.13,Neveu et Fils,5.0,38,832,False,2025-02-14
+prod_00440,L'assurance d'atteindre vos buts de manière efficace,beauty,skincare,12.04,Maillard Roussel S.A.,4.1,41,354,False,2025-06-26
+prod_00441,Le confort d'atteindre vos buts autrement,sports,outdoor,130.21,Robin Lesage et Fils,4.4,44,831,False,2025-04-16
+prod_00442,Le pouvoir d'avancer à sa source,beauty,fragrance,23.14,Chauveau et Fils,4.4,45,510,False,2024-12-11
+prod_00443,La liberté de louer à la pointe,home,kitchen,41.27,Blanchet,3.7,49,634,False,2024-11-06
+prod_00444,Le pouvoir d'avancer autrement,electronics,laptop,32.36,Maillard,4.7,42,846,True,2025-08-31
+prod_00445,Le pouvoir de changer naturellement,toys,dolls,13.41,Aubert,4.2,46,953,False,2025-06-01
+prod_00446,L'assurance de concrétiser vos projets de manière sûre,sports,fitness,137.12,Laine S.A.,4.4,48,307,False,2025-04-11
+prod_00447,Le pouvoir d'avancer autrement,fashion,accessories,110.28,Dupont Imbert et Fils,3.9,42,891,False,2025-07-13
+prod_00448,La liberté d'atteindre vos buts de manière sûre,electronics,headphones,35.8,Da Costa,3.6,38,172,False,2025-09-22
+prod_00449,Le pouvoir de changer avant-tout,fashion,clothing,48.37,Leroy,4.0,44,436,False,2025-09-21
+prod_00450,Le pouvoir de concrétiser vos projets à l'état pur,beauty,makeup,32.06,Gay Lelièvre S.A.R.L.,4.1,45,739,False,2025-09-27
+prod_00451,L'assurance d'innover à la pointe,sports,outdoor,40.9,Rousset,4.3,32,848,False,2025-02-04
+prod_00452,L'avantage d'atteindre vos buts à l'état pur,sports,outdoor,43.37,Rossi,4.7,57,63,False,2025-09-21
+prod_00453,L'art d'atteindre vos buts à la pointe,books,business,224.57,Lefort,3.7,40,509,False,2025-06-22
+prod_00454,L'avantage de concrétiser vos projets à l'état pur,sports,outdoor,20.29,Mary,4.2,42,599,False,2025-09-15
+prod_00455,Le droit d'atteindre vos buts en toute tranquilité,sports,yoga,47.59,De Sousa Lacroix SARL,4.1,56,111,False,2025-06-25
+prod_00456,La possibilité d'atteindre vos buts à sa source,toys,board_games,43.14,Bazin,3.9,30,286,True,2025-07-27
+prod_00457,La possibilité de changer autrement,fashion,clothing,255.47,Perrin,4.6,52,56,False,2025-02-09
+prod_00458,Le droit de changer à l'état pur,books,fiction,110.63,Loiseau,5.0,62,317,True,2025-02-21
+prod_00459,Le droit de changer autrement,electronics,tablet,55.4,Bonnet Legendre S.A.,3.5,53,770,False,2025-03-14
+prod_00460,L'avantage de changer à sa source,books,science,13.21,Chrétien,3.9,42,124,False,2025-01-02
+prod_00461,L'assurance de louer autrement,electronics,tablet,54.73,Bigot,4.3,42,950,False,2024-11-18
+prod_00462,L'assurance de rouler plus facilement,sports,outdoor,54.98,Pottier,3.2,39,373,False,2025-04-15
+prod_00463,Le droit d'évoluer autrement,toys,action_figures,76.81,Lagarde et Fils,4.6,38,267,True,2025-07-06
+prod_00464,L'assurance d'atteindre vos buts plus facilement,fashion,shoes,33.54,Lacombe,3.9,49,9,False,2025-03-19
+prod_00465,L'assurance d'innover sans soucis,fashion,clothing,16.23,Fernandez S.A.R.L.,4.0,43,395,False,2025-05-29
+prod_00466,Le pouvoir de louer avant-tout,sports,outdoor,23.42,Cohen,4.4,50,289,False,2025-08-11
+prod_00467,Le pouvoir de concrétiser vos projets à la pointe,electronics,smartphone,126.97,Deschamps S.A.,4.7,48,111,False,2025-09-06
+prod_00468,L'assurance d'évoluer sans soucis,books,science,11.07,Léger,4.2,53,945,True,2024-10-07
+prod_00469,Le pouvoir d'évoluer sans soucis,sports,fitness,28.35,Bertrand Benoit SARL,4.8,48,30,False,2025-04-20
+prod_00470,Le droit de changer de manière efficace,home,decor,63.29,Delaunay,3.5,36,386,False,2025-07-10
+prod_00471,L'art de concrétiser vos projets à l'état pur,fashion,shoes,30.78,Lévy Boulay SARL,5.0,53,972,False,2024-11-26
+prod_00472,La possibilité d'avancer de manière sûre,sports,fitness,88.72,Collin Vallée S.A.S.,4.5,49,78,False,2024-11-18
+prod_00473,La liberté de rouler en toute tranquilité,books,business,24.37,Salmon SA,4.2,46,825,False,2025-02-03
+prod_00474,La liberté de changer plus facilement,electronics,headphones,27.44,Breton Guillou S.A.R.L.,4.8,34,311,False,2025-07-04
+prod_00475,L'assurance d'innover de manière sûre,electronics,smartphone,29.33,Robin SARL,3.8,49,220,False,2025-07-20
+prod_00476,L'assurance d'atteindre vos buts à la pointe,sports,fitness,39.91,Lelièvre et Fils,3.3,38,317,True,2025-05-22
+prod_00477,Le confort d'avancer avant-tout,home,kitchen,47.5,Bourdon Petit SARL,3.7,50,553,False,2025-10-07
+prod_00478,La possibilité de concrétiser vos projets à sa source,electronics,laptop,267.25,Seguin Bruneau et Fils,3.9,30,40,False,2025-01-06
+prod_00479,Le droit d'avancer de manière efficace,books,cookbooks,34.8,Besnard,3.7,45,476,False,2025-03-26
+prod_00480,Le droit de rouler à la pointe,beauty,skincare,14.9,Bouvier Charpentier S.A.S.,3.6,52,808,False,2025-01-21
+prod_00481,Le pouvoir d'atteindre vos buts autrement,sports,outdoor,64.93,Huet S.A.R.L.,4.8,41,355,False,2025-06-02
+prod_00482,Le confort d'évoluer sans soucis,books,business,88.67,Maury SA,4.0,48,120,False,2024-11-30
+prod_00483,Le plaisir d'évoluer de manière efficace,beauty,haircare,76.47,Lebrun,4.9,39,428,False,2025-09-14
+prod_00484,Le pouvoir d'atteindre vos buts à la pointe,fashion,watches,122.45,Wagner,3.4,52,732,False,2025-07-09
+prod_00485,Le pouvoir de louer plus rapidement,fashion,accessories,134.36,Guyot SARL,4.3,39,278,False,2025-04-12
+prod_00486,Le confort d'atteindre vos buts avant-tout,beauty,haircare,46.45,Aubert Mendès SARL,4.3,37,869,False,2025-03-12
+prod_00487,La liberté d'innover avant-tout,electronics,headphones,122.34,Dupuy,4.9,50,710,False,2024-11-12
+prod_00488,L'avantage de concrétiser vos projets à l'état pur,electronics,tablet,22.85,Lemoine,5.0,29,334,False,2025-06-11
+prod_00489,La possibilité d'évoluer de manière sûre,sports,yoga,39.1,Rey,5.0,46,336,False,2025-06-09
+prod_00490,Le confort de rouler plus rapidement,sports,team_sports,28.63,Reynaud,4.2,39,835,False,2024-10-11
+prod_00491,L'art d'atteindre vos buts de manière efficace,fashion,clothing,35.83,Besnard,4.4,39,649,False,2024-10-29
+prod_00492,La liberté de rouler en toute tranquilité,electronics,headphones,63.2,Hamel,3.3,43,90,False,2025-07-15
+prod_00493,L'assurance d'innover à la pointe,books,business,35.37,Peltier S.A.S.,4.9,50,504,False,2025-06-04
+prod_00494,L'avantage d'atteindre vos buts en toute tranquilité,toys,educational,47.12,Dias S.A.S.,4.9,51,742,False,2025-05-24
+prod_00495,Le plaisir d'atteindre vos buts plus rapidement,toys,board_games,43.13,Humbert SARL,3.6,52,671,False,2025-09-12
+prod_00496,La liberté de changer en toute tranquilité,electronics,tablet,40.41,Gaillard Benard S.A.,4.2,32,148,False,2025-05-05
+prod_00497,La liberté de louer plus facilement,electronics,laptop,144.31,Blanchard Perez S.A.,4.3,39,173,False,2025-06-11
+prod_00498,Le droit d'évoluer sans soucis,toys,dolls,16.09,Joubert,3.4,45,155,False,2025-03-28
+prod_00499,La possibilité d'atteindre vos buts plus facilement,books,business,75.82,Fleury,4.6,34,683,False,2025-01-10

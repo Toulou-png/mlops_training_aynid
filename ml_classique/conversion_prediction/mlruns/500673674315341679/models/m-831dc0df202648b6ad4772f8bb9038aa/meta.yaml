@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/michel.bertrand.mama/Documents/AYNID/aynid_mlops_training/ml_classique/conversion_prediction/mlruns/500673674315341679/models/m-831dc0df202648b6ad4772f8bb9038aa/artifacts
+creation_timestamp: 1760004218901
+experiment_id: '500673674315341679'
+last_updated_timestamp: 1760004229724
+model_id: m-831dc0df202648b6ad4772f8bb9038aa
+model_type: null
+name: logistic_regression
+source_run_id: 56eb0c8767cd457e92a74b067f66d2f8
+status: 2
+status_message: null

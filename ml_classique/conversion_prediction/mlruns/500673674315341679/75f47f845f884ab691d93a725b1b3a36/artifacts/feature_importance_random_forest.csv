@@ -1,0 +1,826 @@
+feature,importance
+num__session_duration,0.19961111208848598
+cat__device_type_mobile,0.04527127929215249
+cat__device_type_desktop,0.04432495383780687
+cat__location_Saint Marie,0.03145971178400908
+cat__location_Rousset-sur-Laurent,0.019246036395781742
+num__avg_order_value,0.018459287095816044
+cat__location_Delannoy,0.01787309986050612
+cat__location_Sainte Victoire,0.01705247329944425
+cat__location_Saint Philippinenec,0.016986880514987323
+cat__location_Sainte Anaïs-les-Bains,0.01522432583485535
+cat__location_Sainte Geneviève-les-Bains,0.014868311692056328
+cat__location_Sainte Antoinette,0.014393708423094044
+cat__location_Peltierdan,0.014213466800861023
+cat__location_Leducnec,0.012923792399081362
+num__age,0.0119093093211961
+cat__location_Aubert,0.01156564447859495
+cat__location_Sainte AuroreBourg,0.011412799042397595
+cat__location_Ramos-sur-Mer,0.011284873090759024
+cat__location_MaillotVille,0.010105283561227531
+cat__device_type_tablet,0.009531908556202475
+cat__location_Fernandez,0.009387510955386058
+cat__location_Saint Audreyboeuf,0.008959314757933028
+num__total_orders,0.008809837087155865
+cat__location_Sainte IsaacVille,0.008565806468979111
+cat__location_Fouquetnec,0.008092299142012212
+cat__location_Sainte Jacques-sur-Mer,0.007897484460729501
+cat__location_Dumont-la-Forêt,0.007819676682747615
+cat__location_Hubert-les-Bains,0.006936109912429891
+cat__location_Rocher,0.006933174335962172
+cat__location_ReyBourg,0.006871341691299655
+cat__location_Noëlnec,0.006825010722752339
+cat__location_Ferreira-la-Forêt,0.006598042884377316
+cat__location_Sainte Aimé-sur-Mer,0.006597811276723223
+cat__location_Sainte Adèle,0.006512964974459832
+cat__location_Humbertnec,0.006434160323977185
+cat__location_Navarro,0.006303945656808127
+cat__location_Saint Christine,0.00626797490605174
+cat__location_Sainte Alain,0.006090512158768489
+cat__location_Laroche-sur-Millet,0.006057003539145418
+cat__location_Sainte Adrienne,0.005967421033189438
+cat__location_Traore-sur-Mer,0.005933591809482545
+cat__location_Dumont,0.0058257743576354505
+cat__location_Merle,0.005685294839198704
+cat__location_HuetVille,0.005574430296898309
+cat__location_Jean,0.005557055903740326
+cat__location_Parentnec,0.005547181572658196
+cat__location_Mallet,0.005481054970726364
+cat__location_Briand,0.005292655660801141
+cat__location_Allain,0.00508774275275562
+cat__location_Bailly-sur-Mer,0.004753594904598772
+cat__location_Grenier-la-Forêt,0.0047461735966934345
+cat__location_Pasquier-sur-Thierry,0.004642175724534761
+cat__location_Roy-sur-Guillaume,0.004630673064189074
+cat__location_LévêqueBourg,0.00455250795691349
+cat__location_Saint Constance,0.004308483199833328
+cat__location_Sainte Madeleinenec,0.004270023925655106
+cat__location_MalletVille,0.004227825110607471
+cat__location_Leclerc-sur-Coulon,0.0042194172072227585
+cat__location_Pruvost,0.004036957542729401
+cat__location_Wagner-sur-Verdier,0.004026688864888614
+cat__location_Guyon-la-Forêt,0.00396043992334269
+cat__preferred_category_beauty,0.0038706757856779034
+cat__location_Grégoiredan,0.0038493618207954697
+cat__location_Godard,0.0038374725436842077
+cat__location_Leclercq-sur-Laine,0.0037743130740681367
+cat__location_Buisson,0.0037362605282079174
+cat__preferred_category_fashion,0.0037097993679858577
+cat__location_Masson,0.0035849987232538603
+cat__location_Fabre-la-Forêt,0.0035159162419466615
+cat__location_Charrier-sur-Hardy,0.003488789419840936
+cat__location_BlanchetBourg,0.003486598180797547
+cat__location_Albert-sur-Pruvost,0.0034466849776284706
+cat__location_LeroyVille,0.0034352735118175987
+cat__location_Goncalves-sur-Mer,0.00343135534425827
+cat__location_Guillot-sur-Charrier,0.003427600482445396
+cat__location_Sainte PhilippineVille,0.0033454353373381777
+cat__location_Carpentierdan,0.0033389824487324886
+cat__preferred_category_sports,0.0032794000227780867
+cat__location_Gérard-sur-Mer,0.0031961535990921467
+cat__location_Marie,0.002990221174078515
+cat__location_Roy,0.0029837029437499423
+cat__location_CharlesBourg,0.002867681997702654
+cat__location_Lebreton,0.0028410703442781
+cat__location_Mendès,0.0027883029403325235
+cat__location_Foucher,0.0027824962425697835
+cat__location_Lelièvre-les-Bains,0.0027247284479322014
+cat__location_GeorgesVille,0.0026164911757391293
+cat__location_Colin,0.0025744290388829486
+cat__location_Bourdon-sur-Moreno,0.002542822960896092
+cat__location_Sainte Eugène-les-Bains,0.00247956424990031
+cat__location_Étienne,0.0024703587937562163
+cat__location_Moulin,0.0024380793120657757
+cat__location_Sainte Vincent,0.002392585513553227
+cat__location_Garnier-sur-Rousseau,0.0023787710156921837
+cat__location_Guyot-les-Bains,0.0023642020183422064
+cat__location_Maury-sur-Martinez,0.002322849774731465
+cat__location_Guérin-sur-Gérard,0.002314291167786076
+cat__location_Bazin,0.002294044935758735
+cat__location_Charles-sur-Mer,0.0022872880893014245
+cat__location_Rocher-sur-Bernard,0.002258434991802175
+cat__location_Maillarddan,0.002127080201411162
+cat__location_Rémy,0.002093925577290101
+cat__location_Gosselindan,0.0020385006973224393
+cat__location_Sainte Pauline-sur-Mer,0.002020916456873842
+cat__location_Robert-sur-Mer,0.00201475900527835
+cat__location_Lecoq-sur-Gomez,0.001987751080255913
+cat__location_Coulon-les-Bains,0.001961572396763805
+cat__location_Coste-sur-Mer,0.0019058786914256214
+cat__location_VasseurBourg,0.0018625794714297308
+cat__location_Traore,0.0017597688259236334
+cat__location_Coste,0.0017590716496945907
+cat__location_Millet,0.001750600950947101
+cat__location_Bodindan,0.001677053549115297
+cat__location_Lejeuneboeuf,0.0016576044149706195
+cat__location_Pinto-sur-Mer,0.0015966191111231247
+cat__location_Boulanger,0.001545647163455105
+cat__location_Seguin,0.001541221614679932
+cat__location_Evrardnec,0.0015390536513574889
+cat__location_Gomez,0.0015285737797834994
+cat__location_Didier,0.001525663254799279
+cat__location_Menardnec,0.0015219808989398566
+cat__location_Hubertnec,0.0015171657075660518
+cat__location_Saint Rogernec,0.0015036951895734494
+cat__location_Regnier,0.0013932167311956603
+cat__location_Lecoq-la-Forêt,0.0013883332932199577
+cat__location_Sainte VirginieBourg,0.0013787560354857169
+cat__location_Saint Gabrielle,0.0013616588767438433
+cat__location_Saint Christelle,0.0012980813081367025
+cat__location_Fleury,0.0012744493239938964
+cat__location_Paris,0.0012688484488593377
+cat__location_Leroy-les-Bains,0.001242552554835551
+cat__location_Maillot-la-Forêt,0.0012378708465525293
+cat__location_Saint Catherine,0.0012292548940883402
+cat__location_Saint Dominique,0.0011719755027273695
+cat__location_Micheldan,0.0011700672927264985
+cat__location_Duhameldan,0.001166532362565654
+cat__location_Legendre,0.0011373766203083187
+cat__location_Torres-sur-Roussel,0.0011314861071742039
+cat__location_Antoine,0.0011214047782010517
+cat__location_Fouchernec,0.001078897039058536
+cat__location_Saint Manon-les-Bains,0.0010705927808088323
+cat__location_Laine,0.0010425164542985981
+cat__location_Brunboeuf,0.0009800177236826413
+cat__location_Gallet,0.0009754683379669869
+cat__location_Saint Vincent,0.0009668161546977202
+cat__location_Loiseau,0.0009405307062272821
+cat__location_Sainte Paul,0.0009278233053463878
+cat__location_PerrinVille,0.0009081197487772614
+cat__location_Bailly-les-Bains,0.0008606981412432287
+cat__location_Grondin-sur-Dupuy,0.0008383846427331416
+cat__location_Bertin,0.0007844493188713788
+cat__location_Bazin-les-Bains,0.0007787318341356162
+cat__location_Guillou,0.0007675236829523446
+cat__preferred_category_home,0.00072494746796806
+cat__location_Saint Margaud-les-Bains,0.0006145891038987267
+cat__location_Saint Hugues,0.0005565390100401418
+cat__location_Gilles,0.0005546206255840989
+cat__location_Saint Alain,0.0005497627080246688
+cat__location_Saint JoséphineBourg,0.0005488408737425953
+cat__location_Prévostnec,0.000533567820706047
+cat__location_Robin,0.0005244666022484788
+cat__location_FontaineVille,0.0005045875226897933
+cat__location_Bonnet,0.0004926865409284884
+cat__location_Bousquet,0.000490264633958611
+cat__location_Sainte Thibault-les-Bains,0.0004799951299310478
+cat__location_Paris-la-Forêt,0.0004792025413953158
+cat__location_Lecomte-sur-David,0.0004717438254284877
+cat__location_Sainte Tristan,0.0004666610774113224
+cat__location_Bonnin-sur-Mahe,0.0004562801399401232
+cat__location_Delattre,0.00045450923567722846
+cat__location_Saint Monique,0.00044673492203706834
+cat__location_Tessier,0.00044147595013317546
+cat__location_Lefebvre,0.0004162389380701583
+cat__location_Sainte ValentineBourg,0.0004101010859227935
+cat__preferred_category_electronics,0.000320485213274367
+cat__location_Sainte Édith,0.000298586013570381
+cat__location_Toussaint,0.00029413653894712257
+cat__location_Royer-sur-Baudry,0.00026329956812832746
+cat__location_Gimenez,0.0002494992625177611
+cat__location_Valette,0.00023444621331482235
+cat__location_Bègue,0.00020013125466770672
+cat__location_Chevallierdan,0.00019580441143814348
+cat__location_Baron,0.00018890102865231587
+cat__location_Dubois-sur-Mer,0.00018841322805721844
+cat__location_Gomes,0.00016071745446639637
+cat__location_Petit,0.00015879346061020285
+cat__location_Sainte Cécileboeuf,0.00014258743866000815
+cat__location_ArnaudBourg,0.0001407054676153097
+cat__location_Tessierdan,0.00012735162711343843
+cat__location_Carlier-sur-Dupuy,0.00012255040326460367
+cat__location_Couturier,0.00011407529319241271
+cat__location_Le Roux,0.00011223219448349782
+cat__location_Jacques,0.00010583218767901218
+cat__location_Aubry,0.00010336974608535737
+cat__location_Jacquotdan,9.965972576640383e-05
+cat__location_Guérindan,9.855400897836116e-05
+cat__location_Lucas,8.869105501674663e-05
+cat__location_Potier,7.811992883605997e-05
+cat__location_Saint Lucynec,7.14834514461631e-05
+cat__location_Texier,6.556230068759744e-05
+cat__location_Rey-les-Bains,6.247665179124896e-05
+cat__location_Dos Santos,5.743975012857213e-05
+cat__location_Fontaine,4.918280236038439e-05
+cat__location_Launay-sur-Tessier,4.2947021648195864e-05
+cat__location_Seguin-sur-Fernandez,4.222673079879407e-05
+cat__location_Perez,2.617245564311155e-05
+cat__location_Jacquot,2.231979522273879e-05
+cat__location_Saint Henri-la-Forêt,2.1670355487533298e-05
+cat__location_Torres,1.7913409360615432e-05
+cat__location_Aubry-la-Forêt,1.3571381280281808e-05
+cat__location_Delattre-sur-Bazin,2.6516196754461705e-07
+cat__location_Cordier-sur-Mer,0.0
+cat__location_Cordier,0.0
+cat__location_Collet-la-Forêt,0.0
+cat__location_Colinboeuf,0.0
+cat__location_Colas-sur-Mer,0.0
+cat__location_Colas-sur-Foucher,0.0
+cat__location_Cohen-la-Forêt,0.0
+cat__location_DelaunayVille,0.0
+cat__location_Delaunay-la-Forêt,0.0
+cat__location_Delaunay,0.0
+cat__location_Delattredan,0.0
+cat__location_Delahaye,0.0
+cat__location_De Sousa,0.0
+cat__location_De Oliveira,0.0
+cat__location_Danielboeuf,0.0
+cat__location_Daniel,0.0
+cat__location_Da Silvanec,0.0
+cat__location_Da Silva,0.0
+cat__location_Da Costa-la-Forêt,0.0
+cat__location_Couturiernec,0.0
+cat__location_CouturierVille,0.0
+cat__location_DijouxVille,0.0
+cat__location_Dijoux-sur-Charles,0.0
+cat__location_Dijoux,0.0
+cat__location_Didier-sur-Mer,0.0
+cat__location_Didier-les-Bains,0.0
+cat__location_Diaz-les-Bains,0.0
+cat__location_Diallo,0.0
+cat__location_Devaux,0.0
+cat__location_Descamps,0.0
+cat__location_Delorme-sur-Mer,0.0
+cat__location_Delmas-sur-Mer,0.0
+cat__location_Delmas-la-Forêt,0.0
+cat__location_Delmas,0.0
+cat__location_Delaunaydan,0.0
+cat__location_Dupuisnec,0.0
+cat__location_Dupuis-sur-Henry,0.0
+cat__location_Dupuis,0.0
+cat__location_Duprénec,0.0
+cat__location_Dupré-sur-Tanguy,0.0
+cat__location_Dupré-sur-Robert,0.0
+cat__location_Dupontnec,0.0
+cat__location_Dupont-sur-Mer,0.0
+cat__location_Dumas-les-Bains,0.0
+cat__location_Dumas,0.0
+cat__location_Duhamelnec,0.0
+cat__location_Duhamel-la-Forêt,0.0
+cat__location_Dubois,0.0
+cat__location_Fleury-sur-Godard,0.0
+cat__location_Fleury-sur-Carlier,0.0
+cat__location_Fischer,0.0
+cat__location_Ferreira,0.0
+cat__location_Ferrand,0.0
+cat__location_Fernandez-sur-Michaud,0.0
+cat__location_Fernandes-les-Bains,0.0
+cat__location_Faivre-sur-Charles,0.0
+cat__location_FabreVille,0.0
+cat__location_Duval-sur-Charles,0.0
+cat__location_Durand-sur-Grenier,0.0
+cat__location_Durand,0.0
+cat__location_Garnier-sur-Klein,0.0
+cat__location_GarciaBourg,0.0
+cat__location_Garcia,0.0
+cat__location_Gaillardboeuf,0.0
+cat__location_Gaillard,0.0
+cat__location_François-les-Bains,0.0
+cat__location_Fourniernec,0.0
+cat__location_Fournier-sur-Pires,0.0
+cat__location_Fournier,0.0
+cat__location_Fouquet,0.0
+cat__location_Foucher-les-Bains,0.0
+cat__location_Goncalves,0.0
+cat__location_Godard-la-Forêt,0.0
+cat__location_Gillet,0.0
+cat__location_Gilbert,0.0
+cat__location_GermainBourg,0.0
+cat__location_Germain-les-Bains,0.0
+cat__location_Germain-la-Forêt,0.0
+cat__location_Gaudin-sur-Godard,0.0
+cat__location_Gaudin,0.0
+cat__location_Garnierboeuf,0.0
+cat__location_Guichard,0.0
+cat__location_Guibert-les-Bains,0.0
+cat__location_Guibert,0.0
+cat__location_Grégoire,0.0
+cat__location_Gros,0.0
+cat__location_Grondin,0.0
+cat__location_Grenier,0.0
+cat__location_Gosselinboeuf,0.0
+cat__location_Gosselin-sur-Colin,0.0
+cat__location_Gonzalez,0.0
+cat__location_Goncalvesdan,0.0
+cat__location_Gérard,0.0
+cat__location_Guyot-sur-Mer,0.0
+cat__location_Guyot,0.0
+cat__location_Guyondan,0.0
+cat__location_Guyon-sur-Mer,0.0
+cat__location_Guillot,0.0
+cat__location_Guillon,0.0
+cat__location_Guillaume-sur-Mer,0.0
+cat__location_Guillaume-les-Bains,0.0
+cat__location_Guichard-la-Forêt,0.0
+cat__location_HumbertVille,0.0
+cat__location_Humbert-sur-Philippe,0.0
+cat__location_Huet,0.0
+cat__location_Hoarau-la-Forêt,0.0
+cat__location_Hervé-sur-Morvan,0.0
+cat__location_Hervé,0.0
+cat__location_Hernandez,0.0
+cat__location_HenryVille,0.0
+cat__location_Hebert,0.0
+cat__location_Hardyboeuf,0.0
+cat__location_Hamel-sur-Morvan,0.0
+cat__location_Hamel-sur-Mer,0.0
+cat__location_Hamel,0.0
+cat__location_JacquotVille,0.0
+cat__location_Jacquot-sur-Mer,0.0
+cat__location_Jacquet,0.0
+cat__location_Jacobnec,0.0
+cat__location_Jacob-sur-Olivier,0.0
+cat__location_Jacob-les-Bains,0.0
+cat__location_Jacob,0.0
+cat__location_ImbertVille,0.0
+cat__location_Imbert-sur-Charles,0.0
+cat__location_Imbert-la-Forêt,0.0
+cat__location_Imbert,0.0
+cat__location_Lacroix,0.0
+cat__location_Lacombe-la-Forêt,0.0
+cat__location_Lacombe,0.0
+cat__location_Labbé-sur-Mer,0.0
+cat__location_Labbé-sur-Lesage,0.0
+cat__location_Labbé-la-Forêt,0.0
+cat__location_Klein,0.0
+cat__location_Julien,0.0
+cat__location_JourdanVille,0.0
+cat__location_Jourdan,0.0
+cat__location_Joubertboeuf,0.0
+cat__location_Joubert-sur-Leleu,0.0
+cat__location_Josephboeuf,0.0
+cat__location_Joseph,0.0
+cat__location_Joly-sur-Valentin,0.0
+cat__location_Joly,0.0
+cat__location_Larocheboeuf,0.0
+cat__location_Laroche,0.0
+cat__location_Laporte-la-Forêt,0.0
+cat__location_Langlois,0.0
+cat__location_LamyBourg,0.0
+cat__location_Lamy,0.0
+cat__location_Lambertdan,0.0
+cat__location_Lambert-sur-Mer,0.0
+cat__location_Lambert,0.0
+cat__location_LaineBourg,0.0
+cat__location_Laine-sur-Gros,0.0
+cat__location_Lagardedan,0.0
+cat__location_Lagarde,0.0
+cat__location_Lacroix-sur-Didier,0.0
+cat__location_Lebonnec,0.0
+cat__location_LebonVille,0.0
+cat__location_Lebon-sur-Guillot,0.0
+cat__location_Lebon,0.0
+cat__location_Leblanc,0.0
+cat__location_Le RouxBourg,0.0
+cat__location_Le Roux-sur-Martins,0.0
+cat__location_Le Goff-les-Bains,0.0
+cat__location_Le Goff,0.0
+cat__location_Le Gall-les-Bains,0.0
+cat__location_Le Gall,0.0
+cat__location_Laurent,0.0
+cat__location_Launay,0.0
+cat__location_Lecoq-sur-Dupré,0.0
+cat__location_Lecoq,0.0
+cat__location_Leconte,0.0
+cat__location_Lecomteboeuf,0.0
+cat__location_Lecomte-sur-Legrand,0.0
+cat__location_Lecomte,0.0
+cat__location_LeclercBourg,0.0
+cat__location_Leclerc-les-Bains,0.0
+cat__location_Leclerc,0.0
+cat__location_Lebrun-les-Bains,0.0
+cat__location_Lebretondan,0.0
+cat__location_Lelièvre,0.0
+cat__location_Leleu-sur-Andre,0.0
+cat__location_Leleu,0.0
+cat__location_Lejeune,0.0
+cat__location_Legros-sur-Leclercq,0.0
+cat__location_Legros,0.0
+cat__location_Legrand,0.0
+cat__location_Lefèvre-sur-Gaillard,0.0
+cat__location_Lefèvre,0.0
+cat__location_Lefort,0.0
+cat__location_Leduc-sur-Becker,0.0
+cat__location_Ledoux,0.0
+cat__location_Lecoqdan,0.0
+cat__location_Louis-sur-Navarro,0.0
+cat__location_Louis,0.0
+cat__location_Lopez,0.0
+cat__location_LombardBourg,0.0
+cat__location_Leroydan,0.0
+cat__location_Leroy-sur-Mer,0.0
+cat__location_Leroux,0.0
+cat__location_Lenoir-sur-Loiseau,0.0
+cat__location_Lemaître,0.0
+cat__location_LelièvreBourg,0.0
+cat__location_Lelièvre-sur-Guillou,0.0
+cat__location_Lelièvre-sur-Ferreira,0.0
+cat__location_Marin-sur-Mer,0.0
+cat__location_Marin,0.0
+cat__location_Marchal,0.0
+cat__location_Malletnec,0.0
+cat__location_Maillot,0.0
+cat__location_Maillet,0.0
+cat__location_Maillard,0.0
+cat__location_Maheboeuf,0.0
+cat__location_Mahe-sur-Guilbert,0.0
+cat__location_Masse-la-Forêt,0.0
+cat__location_Masse,0.0
+cat__location_Marynec,0.0
+cat__location_Marty-sur-Poulain,0.0
+cat__location_Martinez-sur-Mer,0.0
+cat__location_Martinez-sur-Laurent,0.0
+cat__location_Martinez,0.0
+cat__location_Martineau-sur-Bouchet,0.0
+cat__location_Martindan,0.0
+cat__location_MartelBourg,0.0
+cat__location_Martel,0.0
+cat__location_Marquesboeuf,0.0
+cat__location_Marques-sur-Aubry,0.0
+cat__location_Marion-la-Forêt,0.0
+cat__location_Marion,0.0
+cat__location_Marinboeuf,0.0
+cat__location_Meyer,0.0
+cat__location_Meunier,0.0
+cat__location_MerleVille,0.0
+cat__location_Turpin,0.0
+cat__location_Mercierdan,0.0
+cat__location_MercierVille,0.0
+cat__location_Mercier-sur-Michel,0.0
+cat__location_Mendèsboeuf,0.0
+cat__location_Adam,0.0
+cat__location_AlbertBourg,0.0
+cat__location_Menard,0.0
+cat__location_MauryVille,0.0
+cat__location_Allard,0.0
+cat__location_Maury,0.0
+cat__location_MauriceBourg,0.0
+cat__location_Allard-les-Bains,0.0
+cat__location_Barre,0.0
+cat__location_Baronboeuf,0.0
+cat__location_Baron-sur-Jacques,0.0
+cat__location_AllardVille,0.0
+cat__location_BarbierVille,0.0
+cat__location_Barbedan,0.0
+cat__location_Barbe-sur-Mace,0.0
+cat__location_Barbe,0.0
+cat__location_Morel,0.0
+cat__location_Moreau,0.0
+cat__location_Monnier,0.0
+cat__location_MilletBourg,0.0
+cat__location_Millet-sur-Mer,0.0
+cat__location_Étienneboeuf,0.0
+cat__location_Weissboeuf,0.0
+cat__location_Michaud,0.0
+cat__location_Munoz,0.0
+cat__location_Muller,0.0
+cat__location_Moulinnec,0.0
+cat__location_Weiss,0.0
+cat__location_Morvan,0.0
+cat__location_MorinVille,0.0
+cat__location_Morin,0.0
+cat__location_Moreno,0.0
+cat__location_Bernier,0.0
+cat__location_Bernard-sur-Mer,0.0
+cat__location_BenoitVille,0.0
+cat__location_BeckerBourg,0.0
+cat__location_Bazinboeuf,0.0
+cat__location_Traoreboeuf,0.0
+cat__location_Toussaint-sur-Mer,0.0
+cat__location_Baudrynec,0.0
+cat__location_Toussaint-sur-Chartier,0.0
+cat__location_Blanchet-sur-Delattre,0.0
+cat__location_Parentdan,0.0
+cat__location_Parentboeuf,0.0
+cat__location_ParentBourg,0.0
+cat__location_Parent,0.0
+cat__location_Pages,0.0
+cat__location_Ollivierboeuf,0.0
+cat__location_Ollivier-la-Forêt,0.0
+cat__location_Olivier,0.0
+cat__location_Noël,0.0
+cat__location_Normand,0.0
+cat__location_Nguyen,0.0
+cat__location_Neveu-sur-Maurice,0.0
+cat__location_Neveu,0.0
+cat__location_Blanchet,0.0
+cat__location_Perrin,0.0
+cat__location_Perrier,0.0
+cat__location_Perret,0.0
+cat__location_Peron,0.0
+cat__location_Blanc,0.0
+cat__location_Pereira-les-Bains,0.0
+cat__location_Pereira,0.0
+cat__location_Peltierboeuf,0.0
+cat__location_Peltier-sur-Mer,0.0
+cat__location_Peltier,0.0
+cat__location_Pelletier,0.0
+cat__location_Pasquierdan,0.0
+cat__location_BigotBourg,0.0
+cat__location_Pasquier,0.0
+cat__location_PascalVille,0.0
+cat__location_Besson-sur-Lucas,0.0
+cat__location_Pires-sur-Caron,0.0
+cat__location_Besson,0.0
+cat__location_Pinto,0.0
+cat__location_Pineau,0.0
+cat__location_PierreVille,0.0
+cat__location_Pierre,0.0
+cat__location_Pichon,0.0
+cat__location_PicardBourg,0.0
+cat__location_Picard-la-Forêt,0.0
+cat__location_Philippe-sur-Mer,0.0
+cat__location_Philippe,0.0
+cat__location_Petitjean,0.0
+cat__location_Petitboeuf,0.0
+cat__location_Besnard,0.0
+cat__location_Perrot,0.0
+cat__location_BertrandBourg,0.0
+cat__location_Raymond,0.0
+cat__location_RamosVille,0.0
+cat__location_Ramos,0.0
+cat__location_Bertrand-sur-Labbé,0.0
+cat__location_Pruvost-sur-Merle,0.0
+cat__location_Bertrand,0.0
+cat__location_Poulain,0.0
+cat__location_Pottierboeuf,0.0
+cat__location_Bertindan,0.0
+cat__location_Ponsnec,0.0
+cat__location_Ponsdan,0.0
+cat__location_Pons,0.0
+cat__location_Poiriernec,0.0
+cat__location_Poirier-la-Forêt,0.0
+cat__location_Piresnec,0.0
+cat__location_Piresboeuf,0.0
+cat__location_BertinVille,0.0
+cat__location_Robert-sur-Diaz,0.0
+cat__location_Rivièredan,0.0
+cat__location_Richard-les-Bains,0.0
+cat__location_Ribeiro,0.0
+cat__location_Reynaud-les-Bains,0.0
+cat__location_Reynaud,0.0
+cat__location_Berthelot-sur-Meyer,0.0
+cat__location_Rey,0.0
+cat__location_Renault,0.0
+cat__location_Renaudnec,0.0
+cat__location_Renardboeuf,0.0
+cat__location_Renard-sur-Mer,0.0
+cat__location_Renard,0.0
+cat__location_Berthelot,0.0
+cat__location_Raynaud,0.0
+cat__location_Boulay,0.0
+cat__location_Roux,0.0
+cat__location_Rousset-sur-Collet,0.0
+cat__location_Rousset,0.0
+cat__location_Rousseau,0.0
+cat__location_Rossi-sur-Boulay,0.0
+cat__location_Rossi,0.0
+cat__location_Rodriguez-sur-Bouchet,0.0
+cat__location_Rodriguez,0.0
+cat__location_Rodrigues,0.0
+cat__location_Rocherboeuf,0.0
+cat__location_Boulanger-sur-Guyon,0.0
+cat__location_Roche,0.0
+cat__location_RobinVille,0.0
+cat__location_Bouchet,0.0
+cat__location_Robertnec,0.0
+cat__location_Saint Anastasie,0.0
+cat__location_Saint Alphonsedan,0.0
+cat__location_Saint AliceBourg,0.0
+cat__location_Saint Alexandrie,0.0
+cat__location_Saint Alexandre,0.0
+cat__location_Saint Alex,0.0
+cat__location_Boucher-sur-Charrier,0.0
+cat__location_Saint Agathe-les-Bains,0.0
+cat__location_Saint Adrienne,0.0
+cat__location_Saint AdrienVille,0.0
+cat__location_Boucher,0.0
+cat__location_Ruiz,0.0
+cat__location_Royernec,0.0
+cat__location_Bonnet-sur-Mer,0.0
+cat__location_Royer,0.0
+cat__location_Bonneau,0.0
+cat__location_BodinBourg,0.0
+cat__location_Blondeldan,0.0
+cat__location_Blondel,0.0
+cat__location_Blin,0.0
+cat__location_Saint Caroline-sur-Mer,0.0
+cat__location_Saint Capucine-les-Bains,0.0
+cat__location_Saint Auroreboeuf,0.0
+cat__location_Saint Augustinnec,0.0
+cat__location_Saint Auguste-sur-Mer,0.0
+cat__location_Saint Auguste,0.0
+cat__location_Saint Arthurdan,0.0
+cat__location_Saint ArthurBourg,0.0
+cat__location_Saint Arthur,0.0
+cat__location_Saint Antoine,0.0
+cat__location_Saint Anne,0.0
+cat__location_Saint Andrée,0.0
+cat__location_Saint Georgesnec,0.0
+cat__location_Saint Georges,0.0
+cat__location_Saint Genevièveboeuf,0.0
+cat__location_Saint Gabrielle-sur-Mer,0.0
+cat__location_Saint Gabrielle-les-Bains,0.0
+cat__location_Brunel,0.0
+cat__location_Saint Françoise,0.0
+cat__location_Saint Franck,0.0
+cat__location_Saint Eugène,0.0
+cat__location_Bruneau,0.0
+cat__location_Briand-sur-Adam,0.0
+cat__location_Saint Diane-la-Forêt,0.0
+cat__location_Saint David,0.0
+cat__location_Saint Danielboeuf,0.0
+cat__location_Saint Célinedan,0.0
+cat__location_Saint CélineBourg,0.0
+cat__location_Saint JulienBourg,0.0
+cat__location_Bretondan,0.0
+cat__location_Saint Josette,0.0
+cat__location_Saint Joseph-les-Bains,0.0
+cat__location_Saint JeanneBourg,0.0
+cat__location_Saint Jeandan,0.0
+cat__location_Saint Jean-sur-Mer,0.0
+cat__location_Saint Jacques-les-Bains,0.0
+cat__location_Saint JacquelineVille,0.0
+cat__location_Saint Isabelle,0.0
+cat__location_Saint Hélèneboeuf,0.0
+cat__location_Breton-sur-Lemoine,0.0
+cat__location_Saint Henriette,0.0
+cat__location_Breton,0.0
+cat__location_Saint Henri,0.0
+cat__location_Saint GillesVille,0.0
+cat__location_Saint MichelleVille,0.0
+cat__location_Saint Michelle-la-Forêt,0.0
+cat__location_Saint Mathilde-la-Forêt,0.0
+cat__location_Saint Maryse,0.0
+cat__location_Saint Mariannenec,0.0
+cat__location_Saint Mariannedan,0.0
+cat__location_Saint Marianneboeuf,0.0
+cat__location_Saint Marguerite-les-Bains,0.0
+cat__location_Saint Margaud-sur-Mer,0.0
+cat__location_Boyer,0.0
+cat__location_Bouviernec,0.0
+cat__location_Saint Léonnec,0.0
+cat__location_BouvetBourg,0.0
+cat__location_Saint Lucy-les-Bains,0.0
+cat__location_Saint Lucienec,0.0
+cat__location_Saint Luceboeuf,0.0
+cat__location_Boutin,0.0
+cat__location_Saint VictoireBourg,0.0
+cat__location_Saint Victoire-les-Bains,0.0
+cat__location_Saint Théodore-la-Forêt,0.0
+cat__location_Saint Thomas,0.0
+cat__location_Saint ThierryVille,0.0
+cat__location_Saint Thibaultboeuf,0.0
+cat__location_Saint Suzanne,0.0
+cat__location_Saint Roland,0.0
+cat__location_Bousquet-sur-De Oliveira,0.0
+cat__location_Saint René,0.0
+cat__location_Saint Pierreboeuf,0.0
+cat__location_Saint Paulineboeuf,0.0
+cat__location_Saint Nicolas,0.0
+cat__location_BourgeoisVille,0.0
+cat__location_Saint Michèle,0.0
+cat__location_Sainte Alexandrie-sur-Mer,0.0
+cat__location_Sainte Alexandre-sur-Mer,0.0
+cat__location_Sainte AlainBourg,0.0
+cat__location_Bourgeois,0.0
+cat__location_Sainte Aimée,0.0
+cat__location_Carre-les-Bains,0.0
+cat__location_Sainte Agnès-les-Bains,0.0
+cat__location_Sainte Agnès,0.0
+cat__location_Sainte Agathe,0.0
+cat__location_Carpentier-sur-Mer,0.0
+cat__location_Carpentier,0.0
+cat__location_Saint Émile,0.0
+cat__location_Saint Édith-sur-Mer,0.0
+cat__location_Saint Édith,0.0
+cat__location_Saint Williamboeuf,0.0
+cat__location_Saint Véronique,0.0
+cat__location_Sainte Daniellenec,0.0
+cat__location_Caronnec,0.0
+cat__location_Sainte CorinneVille,0.0
+cat__location_Sainte Christophe,0.0
+cat__location_Sainte CatherineVille,0.0
+cat__location_Sainte Brigitteboeuf,0.0
+cat__location_Sainte Bertrand-la-Forêt,0.0
+cat__location_Sainte Bernard,0.0
+cat__location_Sainte BernadetteVille,0.0
+cat__location_Sainte AurélieBourg,0.0
+cat__location_Sainte Aurélie,0.0
+cat__location_Sainte Aurore,0.0
+cat__location_Sainte Anne,0.0
+cat__location_Sainte Alphonsedan,0.0
+cat__location_Sainte Alix-la-Forêt,0.0
+cat__location_Sainte Alexdan,0.0
+cat__location_Sainte Louis-sur-Mer,0.0
+cat__location_Sainte Jérômenec,0.0
+cat__location_Sainte Julien,0.0
+cat__location_Sainte Joseph,0.0
+cat__location_Sainte IsabelleVille,0.0
+cat__location_Sainte Hélène,0.0
+cat__location_Sainte Hortense,0.0
+cat__location_Sainte Henri,0.0
+cat__location_Sainte Gilles,0.0
+cat__location_Sainte Genevièvenec,0.0
+cat__location_Sainte GenevièveVille,0.0
+cat__location_Sainte GenevièveBourg,0.0
+cat__location_Saint Dominiquedan,0.0
+cat__location_Sainte Eugènenec,0.0
+cat__location_Caron-sur-Hoareau,0.0
+cat__location_Sainte DavidBourg,0.0
+cat__location_Sainte Patrick,0.0
+cat__location_Sainte Odette,0.0
+cat__location_Sainte Noël,0.0
+cat__location_Sainte Nathalie,0.0
+cat__location_Sainte Monique-les-Bains,0.0
+cat__location_Sainte Maryse-la-Forêt,0.0
+cat__location_Sainte Marguerite-les-Bains,0.0
+cat__location_Sainte Margotnec,0.0
+cat__location_Sainte Margotboeuf,0.0
+cat__location_Sainte Margot-sur-Mer,0.0
+cat__location_Sainte Margaud,0.0
+cat__location_Sainte Marcel-la-Forêt,0.0
+cat__location_Sainte Maggienec,0.0
+cat__location_Caron,0.0
+cat__location_Sainte Lucy,0.0
+cat__location_Sainte Lucnec,0.0
+cat__location_Camus,0.0
+cat__location_Aubertnec,0.0
+cat__location_AubertVille,0.0
+cat__location_Bègue-les-Bains,0.0
+cat__location_Arnaud-sur-Mer,0.0
+cat__location_Antoineboeuf,0.0
+cat__location_AntoineBourg,0.0
+cat__location_Sainte Sébastien,0.0
+cat__location_Sainte Stéphanie,0.0
+cat__location_Sainte Stéphane,0.0
+cat__location_Sainte Richard-sur-Mer,0.0
+cat__location_Sainte Richard,0.0
+cat__location_Sainte PénélopeBourg,0.0
+cat__location_BrunetBourg,0.0
+cat__location_Brunel-sur-Mer,0.0
+cat__location_Cohen,0.0
+cat__location_Clément,0.0
+cat__location_Clerc,0.0
+cat__location_Sainte Victor-sur-Mer,0.0
+cat__location_Sainte Valérie,0.0
+cat__location_Chrétien-les-Bains,0.0
+cat__location_Chevallierboeuf,0.0
+cat__location_Sainte Théophile-la-Forêt,0.0
+cat__location_Chevalier,0.0
+cat__location_ChauvinBourg,0.0
+cat__location_Chauvin,0.0
+cat__location_Bailly-la-Forêt,0.0
+cat__location_Auger-sur-Pasquier,0.0
+cat__location_Auger-sur-Antoine,0.0
+cat__location_Auger,0.0
+cat__location_AubryVille,0.0
+cat__location_Chauvetdan,0.0
+cat__location_Simon,0.0
+cat__location_Chauvet-sur-Toussaint,0.0
+cat__location_Chauveau-sur-Joly,0.0
+cat__location_Schneider-sur-Mer,0.0
+cat__location_Schneider,0.0
+cat__location_Sanchez,0.0
+cat__location_Samsonnec,0.0
+cat__location_SamsonVille,0.0
+cat__location_Samson-sur-Mer,0.0
+cat__location_Sainte Éric,0.0
+cat__location_Sainte Éléonore,0.0
+cat__location_Sainte Élisabeth,0.0
+cat__location_Chartier,0.0
+cat__location_Sainte Zacharienec,0.0
+cat__location_Sainte Xaviernec,0.0
+cat__location_Sainte XavierBourg,0.0
+cat__location_Alves-sur-Gillet,0.0
+cat__location_Weber,0.0
+cat__location_Charrier-la-Forêt,0.0
+cat__location_Wagner-les-Bains,0.0
+cat__location_Wagner,0.0
+cat__location_Voisin,0.0
+cat__location_Vincent-sur-Bernier,0.0
+cat__location_VerdierVille,0.0
+cat__location_Charpentier,0.0
+cat__location_Vasseur-sur-Pineau,0.0
+cat__location_Vallée,0.0
+cat__location_Valette-sur-Richard,0.0
+cat__location_CouturierBourg,0.0
+cat__location_Valentin,0.0
+cat__location_Vaillant,0.0
+cat__location_Weber-sur-Leconte,0.0
+cat__location_Tanguy,0.0
+cat__location_Thomas,0.0
+cat__location_Thierry-sur-Clément,0.0
+cat__location_Thierry,0.0
+cat__location_Texierboeuf,0.0
+cat__location_Coulon,0.0
+cat__location_Costenec,0.0
+cat__location_TessierBourg,0.0
+cat__location_Tessier-les-Bains,0.0
+cat__location_Costa,0.0
+cat__location_Teixeira-sur-Dupont,0.0
+cat__location_Teixeira,0.0
+cat__location_Techerboeuf,0.0
+cat__location_Techer,0.0
+cat__location_TanguyBourg,0.0
+cat__location_Sainte Françoisboeuf,0.0

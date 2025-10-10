@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/michel.bertrand.mama/Documents/AYNID/aynid_mlops_training/ml_classique/conversion_prediction/mlruns/500673674315341679/models/m-5dbfffba9b74423b94e860aecbd3564b/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.4.0
+model_id: m-5dbfffba9b74423b94e860aecbd3564b
+model_size_bytes: 270751
+model_uuid: m-5dbfffba9b74423b94e860aecbd3564b
+prompts: null
+run_id: 88a90f3b09bb49d2926876a43e32497e
+utc_time_created: '2025-10-09 10:03:24.873861'
