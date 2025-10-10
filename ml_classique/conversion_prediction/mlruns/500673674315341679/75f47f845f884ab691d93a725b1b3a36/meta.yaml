@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/michel.bertrand.mama/Documents/AYNID/aynid_mlops_training/ml_classique/conversion_prediction/mlruns/500673674315341679/75f47f845f884ab691d93a725b1b3a36/artifacts
+end_time: 1760004162907
+entry_point_name: ''
+experiment_id: '500673674315341679'
+lifecycle_stage: active
+run_id: 75f47f845f884ab691d93a725b1b3a36
+run_name: random_forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760004136342
+status: 3
+tags: []
+user_id: michel.bertrand.mama

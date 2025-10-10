@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/michel.bertrand.mama/Documents/AYNID/aynid_mlops_training/ml_classique/conversion_prediction/mlruns/500673674315341679/412cac3d4d6a49839fa54b37e8a3abde/artifacts
+end_time: 1759944131339
+entry_point_name: ''
+experiment_id: '500673674315341679'
+lifecycle_stage: active
+run_id: 412cac3d4d6a49839fa54b37e8a3abde
+run_name: victorious-shark-746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759944131143
+status: 3
+tags: []
+user_id: michel.bertrand.mama

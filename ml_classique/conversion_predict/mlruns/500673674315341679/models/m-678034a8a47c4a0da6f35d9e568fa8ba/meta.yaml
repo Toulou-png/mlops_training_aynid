@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/michel.bertrand.mama/Documents/AYNID/aynid_mlops_training/ml_classique/conversion_prediction/mlruns/500673674315341679/models/m-678034a8a47c4a0da6f35d9e568fa8ba/artifacts
+creation_timestamp: 1759944038287
+experiment_id: '500673674315341679'
+last_updated_timestamp: 1759944056328
+model_id: m-678034a8a47c4a0da6f35d9e568fa8ba
+model_type: null
+name: random_forest
+source_run_id: ba649fdec8984707af06e61c0f294d1f
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/michel.bertrand.mama/Documents/AYNID/aynid_mlops_training/ml_classique/conversion_prediction/mlruns/500673674315341679/models/m-5dbfffba9b74423b94e860aecbd3564b/artifacts
+creation_timestamp: 1760004204461
+experiment_id: '500673674315341679'
+last_updated_timestamp: 1760004216450
+model_id: m-5dbfffba9b74423b94e860aecbd3564b
+model_type: null
+name: gradient_boosting
+source_run_id: 88a90f3b09bb49d2926876a43e32497e
+status: 2
+status_message: null

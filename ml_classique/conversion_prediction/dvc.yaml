@@ -1,0 +1,51 @@
+stages:
+  prepare:
+    cmd: python pipelines/train_pipeline.py --stage prepare
+    deps:
+      - src/data/data_loader.py
+      - src/data/feature_engineer.py
+      - data/raw/sessions.csv
+      - data/raw/users.csv
+      - data/raw/products.csv
+    params:
+      - prepare.max_features
+      - prepare.test_size
+    outs:
+      - data/processed/train.csv
+      - data/processed/test.csv
+      - data/features/feature_names.pkl
+  
+  train:
+    cmd: python pipelines/train_pipeline.py --stage train
+    deps:
+      - data/processed/train.csv
+      - src/models/model_trainer.py
+    params:
+      - train.n_estimators
+      - train.max_depth
+      - train.learning_rate
+    metrics:
+      - models/metrics.json:
+          cache: false
+    outs:
+      - models/conversion_model.pkl
+      - models/feature_importance.png
+  
+  evaluate:
+    cmd: python pipelines/train_pipeline.py --stage evaluate
+    deps:
+      - data/processed/test.csv
+      - models/conversion_model.pkl
+    metrics:
+      - models/test_metrics.json:
+          cache: false
+
+  monitor:
+    cmd: python pipelines/monitoring_pipeline.py --frequency daily
+    deps:
+      - models/conversion_model.pkl
+      - data/processed/train.csv
+      - data/raw/
+    metrics:
+      - monitoring_reports/latest/monitoring_report.json:
+          cache: false
